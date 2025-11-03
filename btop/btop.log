@@ -1,0 +1,339 @@
+
+2024/09/03 (12:24:41) | ===> btop++ v.1.3.2
+2024/09/03 (12:24:41) | ERROR: No tty detected!
+btop++ needs an interactive shell to run.
+
+2024/09/03 (12:24:52) | ===> btop++ v.1.3.2
+2024/09/03 (12:24:52) | ERROR: No tty detected!
+btop++ needs an interactive shell to run.
+
+2024/09/03 (12:24:55) | ===> btop++ v.1.3.2
+2024/09/03 (12:24:55) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2024/09/03 (12:42:57) | ===> btop++ v.1.3.2
+2024/09/03 (12:42:57) | ERROR: No tty detected!
+btop++ needs an interactive shell to run.
+
+2024/09/03 (12:42:59) | ===> btop++ v.1.3.2
+2024/09/03 (12:42:59) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+2024/09/03 (13:03:17) | ERROR: Exception during Config::unlock() : unordered_map::at: key not found
+
+2024/09/03 (13:03:45) | ===> btop++ v.1.3.2
+2024/09/03 (13:03:45) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2024/09/03 (21:15:23) | ===> btop++ v.1.3.2
+2024/09/03 (21:15:23) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2024/09/04 (13:38:48) | ===> btop++ v.1.3.2
+2024/09/04 (13:38:48) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2024/09/04 (14:31:27) | ===> btop++ v.1.3.2
+2024/09/04 (14:31:27) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2024/09/04 (14:49:19) | ===> btop++ v.1.3.2
+2024/09/04 (14:49:19) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2024/09/06 (09:49:42) | ===> btop++ v.1.3.2
+2024/09/06 (09:49:42) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2024/09/06 (12:09:21) | ===> btop++ v.1.3.2
+2024/09/06 (12:09:21) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2024/09/06 (14:11:29) | ===> btop++ v.1.3.2
+2024/09/06 (14:11:29) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2024/09/13 (10:57:07) | ===> btop++ v.1.3.2
+2024/09/13 (10:57:07) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2024/09/18 (11:31:43) | ===> btop++ v.1.3.2
+2024/09/18 (11:31:43) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2024/09/19 (14:46:35) | ===> btop++ v.1.3.2
+2024/09/19 (14:46:35) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2024/09/23 (20:10:07) | ===> btop++ v.1.3.2
+2024/09/23 (20:10:07) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2024/09/24 (18:20:07) | ===> btop++ v.1.3.2
+2024/09/24 (18:20:07) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2024/09/24 (19:23:40) | ===> btop++ v.1.3.2
+2024/09/24 (19:23:40) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2024/09/25 (11:29:37) | ===> btop++ v.1.3.2
+2024/09/25 (11:29:37) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+2024/09/25 (16:19:38) | WARNING: Failed to join _runner thread on exit!
+
+2024/09/25 (19:10:52) | ===> btop++ v.1.3.2
+2024/09/25 (19:10:52) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+2024/09/25 (20:27:12) | WARNING: Failed to join _runner thread on exit!
+
+2024/09/26 (15:52:42) | ===> btop++ v.1.3.2
+2024/09/26 (15:52:42) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2024/09/27 (12:23:32) | ===> btop++ v.1.3.2
+2024/09/27 (12:23:32) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+2024/09/27 (14:23:58) | WARNING: Failed to join _runner thread on exit!
+
+2024/09/27 (15:21:07) | ===> btop++ v.1.3.2
+2024/09/27 (15:21:07) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2024/10/02 (12:36:14) | ===> btop++ v.1.3.2
+2024/10/02 (12:36:14) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2024/10/02 (13:18:54) | ===> btop++ v.1.3.2
+2024/10/02 (13:18:54) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2024/10/02 (15:06:17) | ===> btop++ v.1.3.2
+2024/10/02 (15:06:17) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+2024/10/02 (15:20:17) | WARNING: Failed to join _runner thread on exit!
+
+2024/10/02 (15:29:16) | ===> btop++ v.1.3.2
+2024/10/02 (15:29:16) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+2024/10/02 (15:34:55) | WARNING: Failed to join _runner thread on exit!
+
+2024/10/02 (16:14:51) | ===> btop++ v.1.3.2
+2024/10/02 (16:14:51) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+2024/10/02 (16:19:12) | WARNING: Failed to join _runner thread on exit!
+
+2024/10/03 (09:36:11) | ===> btop++ v.1.3.2
+2024/10/03 (09:36:11) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+2024/10/03 (09:52:51) | WARNING: Failed to join _runner thread on exit!
+
+2024/10/04 (12:36:22) | ===> btop++ v.1.3.2
+2024/10/04 (12:36:22) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+2024/10/04 (12:36:26) | WARNING: Failed to join _runner thread on exit!
+
+2024/10/04 (12:37:09) | ===> btop++ v.1.3.2
+2024/10/04 (12:37:09) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2024/10/07 (19:26:00) | ===> btop++ v.1.3.2
+2024/10/07 (19:26:00) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+2024/10/07 (19:26:09) | WARNING: Failed to join _runner thread on exit!
+
+2024/10/07 (19:27:05) | ===> btop++ v.1.3.2
+2024/10/07 (19:27:05) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2024/10/09 (13:42:20) | ===> btop++ v.1.3.2
+2024/10/09 (13:42:20) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2024/10/11 (14:32:30) | ===> btop++ v.1.3.2
+2024/10/11 (14:32:30) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+2024/10/11 (14:32:33) | WARNING: Failed to join _runner thread on exit!
+
+2024/10/11 (14:34:20) | ===> btop++ v.1.3.2
+2024/10/11 (14:34:20) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+2024/10/11 (14:34:32) | WARNING: Failed to join _runner thread on exit!
+
+2024/10/14 (10:37:10) | ===> btop++ v.1.3.2
+2024/10/14 (10:37:10) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2024/10/16 (10:28:46) | ===> btop++ v.1.3.2
+2024/10/16 (10:28:46) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+2024/10/16 (13:06:41) | WARNING: Failed to join _runner thread on exit!
+
+2024/10/16 (13:32:15) | ===> btop++ v.1.3.2
+2024/10/16 (13:32:15) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+2024/10/16 (14:44:39) | WARNING: Failed to join _runner thread on exit!
+
+2024/10/20 (14:38:13) | ===> btop++ v.1.3.2
+2024/10/20 (14:38:13) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+2024/10/20 (14:38:16) | WARNING: Failed to join _runner thread on exit!
+
+2024/10/23 (11:08:29) | ===> btop++ v.1.3.2
+2024/10/23 (11:08:29) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2024/10/23 (11:12:02) | ===> btop++ v.1.3.2
+2024/10/23 (11:12:02) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2024/10/23 (11:22:26) | ===> btop++ v.1.3.2
+2024/10/23 (11:22:26) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2024/10/23 (19:08:24) | ===> btop++ v.1.3.2
+2024/10/23 (19:08:24) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2024/10/23 (19:20:16) | ===> btop++ v.1.3.2
+2024/10/23 (19:20:16) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+2024/10/23 (19:23:33) | WARNING: Failed to join _runner thread on exit!
+
+2024/10/24 (15:13:20) | ===> btop++ v.1.3.2
+2024/10/24 (15:13:20) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2024/10/30 (13:06:43) | ===> btop++ v.1.3.2
+2024/10/30 (13:06:43) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2024/11/06 (15:09:34) | ===> btop++ v.1.3.2
+2024/11/06 (15:09:34) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2024/11/08 (11:50:32) | ===> btop++ v.1.3.2
+2024/11/08 (11:50:32) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+2024/11/08 (12:33:15) | WARNING: Failed to join _runner thread on exit!
+
+2024/11/08 (13:42:39) | ===> btop++ v.1.3.2
+2024/11/08 (13:42:39) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2024/11/11 (13:32:26) | ===> btop++ v.1.3.2
+2024/11/11 (13:32:26) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2024/11/16 (13:22:20) | ===> btop++ v.1.4.0
+2024/11/16 (13:22:20) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+2024/11/16 (13:23:13) | WARNING: Failed to join _runner thread on exit!
+
+2024/11/24 (10:31:45) | ===> btop++ v.1.4.0
+2024/11/24 (10:31:45) | WARNING: Failed to join _runner thread on exit!
+
+2024/12/02 (17:15:31) | ===> btop++ v.1.4.0
+2024/12/02 (17:15:31) | WARNING: Failed to join _runner thread on exit!
+
+2024/12/03 (11:30:43) | ===> btop++ v.1.4.0
+2024/12/03 (11:30:43) | WARNING: Failed to join _runner thread on exit!
+
+2024/12/08 (15:09:46) | ===> btop++ v.1.4.0
+2024/12/08 (15:09:46) | WARNING: Failed to join _runner thread on exit!
+
+2024/12/09 (15:24:33) | ===> btop++ v.1.4.0
+2024/12/09 (15:24:33) | WARNING: Failed to join _runner thread on exit!
+
+2025/01/09 (16:16:22) | ===> btop++ v.1.4.0
+2025/01/09 (16:16:22) | WARNING: Failed to join _runner thread on exit!
+
+2025/02/10 (18:12:04) | ===> btop++ v.1.4.0
+2025/02/10 (18:12:04) | WARNING: Failed to join _runner thread on exit!
+
+2025/02/10 (19:23:09) | ===> btop++ v.1.4.0
+2025/02/10 (19:23:09) | WARNING: Failed to join _runner thread on exit!
+
+2025/02/19 (15:24:28) | ===> btop++ v.1.4.0
+2025/02/19 (15:24:28) | WARNING: Failed to join _runner thread on exit!
+
+2025/02/20 (19:23:51) | ===> btop++ v.1.4.0
+2025/02/20 (19:23:51) | WARNING: Failed to join _runner thread on exit!
+
+2025/02/24 (11:54:44) | ===> btop++ v.1.4.0
+2025/02/24 (11:54:44) | WARNING: Failed to join _runner thread on exit!
+
+2025/02/24 (19:33:35) | ===> btop++ v.1.4.0
+2025/02/24 (19:33:35) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+2025/02/24 (19:35:29) | WARNING: Failed to join _runner thread on exit!
+
+2025/02/24 (19:35:31) | ===> btop++ v.1.4.0
+2025/02/24 (19:35:31) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+2025/02/24 (21:09:01) | WARNING: Failed to join _runner thread on exit!
+
+2025/02/28 (21:22:31) | ===> btop++ v.1.4.0
+2025/02/28 (21:22:31) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+2025/02/28 (21:22:51) | WARNING: Failed to join _runner thread on exit!
+
+2025/03/05 (11:23:18) | ===> btop++ v.1.4.0
+2025/03/05 (11:23:18) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+2025/03/05 (11:31:26) | WARNING: Failed to join _runner thread on exit!
+
+2025/03/06 (09:10:26) | ===> btop++ v.1.4.0
+2025/03/06 (09:10:26) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2025/03/10 (14:41:32) | ===> btop++ v.1.4.0
+2025/03/10 (14:41:32) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2025/03/17 (11:53:53) | ===> btop++ v.1.4.0
+2025/03/17 (11:53:53) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2025/03/17 (22:18:22) | ===> btop++ v.1.4.0
+2025/03/17 (22:18:22) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2025/03/18 (17:44:43) | ===> btop++ v.1.4.0
+2025/03/18 (17:44:43) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2025/03/18 (17:48:18) | ===> btop++ v.1.4.0
+2025/03/18 (17:48:18) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+2025/03/18 (17:49:33) | WARNING: Failed to join _runner thread on exit!
+
+2025/03/18 (17:50:26) | ===> btop++ v.1.4.0
+2025/03/18 (17:50:26) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+2025/03/18 (17:54:59) | WARNING: Failed to join _runner thread on exit!
+
+2025/03/18 (19:37:08) | ===> btop++ v.1.4.0
+2025/03/18 (19:37:08) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2025/03/18 (20:51:04) | ===> btop++ v.1.4.0
+2025/03/18 (20:51:04) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+2025/03/18 (20:52:11) | WARNING: Failed to join _runner thread on exit!
+
+2025/03/19 (17:08:39) | ===> btop++ v.1.4.0
+2025/03/19 (17:08:39) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2025/03/22 (11:34:58) | ===> btop++ v.1.4.0
+2025/03/22 (11:34:58) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+2025/03/22 (14:24:11) | WARNING: Failed to join _runner thread on exit!
+
+2025/03/25 (15:58:18) | ===> btop++ v.1.4.0
+2025/03/25 (15:58:18) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2025/03/25 (18:20:05) | ===> btop++ v.1.4.0
+2025/03/25 (18:20:05) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+2025/03/25 (18:27:37) | WARNING: Failed to join _runner thread on exit!
+
+2025/03/25 (18:53:54) | ===> btop++ v.1.4.0
+2025/03/25 (18:53:54) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+2025/03/25 (19:16:37) | WARNING: Failed to join _runner thread on exit!
+
+2025/03/27 (16:45:09) | ===> btop++ v.1.4.0
+2025/03/27 (16:45:09) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+2025/03/27 (18:09:46) | WARNING: Failed to join _runner thread on exit!
+
+2025/03/27 (18:23:36) | ===> btop++ v.1.4.0
+2025/03/27 (18:23:36) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2025/03/29 (10:20:05) | ===> btop++ v.1.4.0
+2025/03/29 (10:20:05) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+2025/03/29 (11:14:58) | WARNING: Failed to join _runner thread on exit!
+
+2025/03/29 (12:02:17) | ===> btop++ v.1.4.0
+2025/03/29 (12:02:17) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+2025/03/29 (18:05:19) | WARNING: Failed to join _runner thread on exit!
+
+2025/03/30 (10:00:53) | ===> btop++ v.1.4.0
+2025/03/30 (10:00:53) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2025/03/30 (11:07:38) | ===> btop++ v.1.4.0
+2025/03/30 (11:07:38) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2025/03/30 (11:15:25) | ===> btop++ v.1.4.0
+2025/03/30 (11:15:25) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2025/03/31 (17:24:04) | ===> btop++ v.1.4.0
+2025/03/31 (17:24:04) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+2025/03/31 (17:30:15) | WARNING: Failed to join _runner thread on exit!
+
+2025/04/01 (14:32:30) | ===> btop++ v.1.4.0
+2025/04/01 (14:32:30) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2025/04/23 (14:11:36) | ===> btop++ v.1.4.0
+2025/04/23 (14:11:36) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2025/04/25 (13:29:08) | ===> btop++ v.1.4.0
+2025/04/25 (13:29:08) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2025/04/27 (11:34:21) | ===> btop++ v.1.4.0
+2025/04/27 (11:34:21) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2025/04/28 (10:41:37) | ===> btop++ v.1.4.0
+2025/04/28 (10:41:37) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2025/04/28 (12:47:40) | ===> btop++ v.1.4.0
+2025/04/28 (12:47:40) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+2025/04/28 (16:11:53) | WARNING: Failed to join _runner thread on exit!
+
+2025/04/28 (16:26:55) | ===> btop++ v.1.4.0
+2025/04/28 (16:26:55) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2025/04/29 (14:19:50) | ===> btop++ v.1.4.0
+2025/04/29 (14:19:50) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2025/04/30 (14:12:01) | ===> btop++ v.1.4.0
+2025/04/30 (14:12:01) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2025/06/15 (17:12:24) | ===> btop++ v.1.4.0
+2025/06/15 (17:12:24) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+
+2025/07/18 (11:07:28) | ===> btop++ v.1.4.0
+2025/07/18 (11:07:28) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module

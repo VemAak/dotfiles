@@ -1,0 +1,19 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/documents/nummat/NumMat-exercises" value="true" />
+        <entry key="$USER_HOME$/documents/nummat/NumMat-exercises/exercise1" value="true" />
+        <entry key="$USER_HOME$/documents/nummat/NumMat-exercises/exercise3" value="true" />
+        <entry key="$USER_HOME$/documents/nummat/projects" value="true" />
+        <entry key="$USER_HOME$/documents/nummat/projects/project1" value="true" />
+        <entry key="$USER_HOME$/documents/nummat/projects/project2" value="true" />
+        <entry key="$USER_HOME$/documents/stokmod/projects/StokMod-project-1" value="true" />
+        <entry key="$USER_HOME$/documents/stokmod/projects/StokMod-project-2" value="true" />
+        <entry key="$USER_HOME$/documents/stokmod/projects/project_1" value="true" />
+        <entry key="$USER_HOME$/documents/webkom" value="true" />
+        <entry key="$USER_HOME$/documents/webkom/nablaweb" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

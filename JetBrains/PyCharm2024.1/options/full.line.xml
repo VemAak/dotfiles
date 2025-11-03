@@ -1,0 +1,15 @@
+<application>
+  <component name="DownloadModelConsentState">
+    <option name="lastNotificationTimestamps">
+      <map>
+        <entry language="CSS" lastNotificationTimestamp="1729705032680" />
+        <entry language="JavaScript" lastNotificationTimestamp="1729709229420" />
+      </map>
+    </option>
+  </component>
+  <component name="MLServerCompletionSettings">
+    <LangState language_id="JupyterPython">
+      <option name="filterModelEnabled" value="false" />
+    </LangState>
+  </component>
+</application>

@@ -1,0 +1,426 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="nablaweb" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoStructureTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2lkp8b7duf0f3" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/front_page.html">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1674">
+              <caret line="62" column="38" selection-start-line="62" selection-start-column="38" selection-end-line="62" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nablapps/officeCalendar/templates/officeCalendar/includes/list.html">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/css/front_page.css">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="837">
+              <caret line="31" column="59" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/templates/includes/bedpres_leaderboard.html">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="723">
+              <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+              <folding>
+                <element signature="e#743#768#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/includes/upcoming_events.html">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1647">
+              <caret line="61" column="32" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="82" />
+              <folding>
+                <element signature="e#1833#1884#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nablapps/interactive/templates/interactive/code_golf.html">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="3537">
+              <caret line="131" column="14" selection-start-line="131" selection-start-column="14" selection-end-line="131" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nablapps/interactive/views/code_golf.py">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="2187">
+              <caret line="81" column="51" selection-start-line="81" selection-start-column="51" selection-end-line="81" selection-end-column="51" />
+              <folding>
+                <element signature="e#0#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nablapps/core/views.py">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1782">
+              <caret line="84" column="24" selection-start-line="84" selection-start-column="24" selection-end-line="84" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nablapps/interactive/models/code_golf.py">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1512">
+              <caret line="57" column="28" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nablapps/events/models/eventregistration.py">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="216">
+              <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Markdown": {
+      "usageCount": 2,
+      "lastUsed": 1730310412136
+    },
+    "HTML": {
+      "usageCount": 18,
+      "lastUsed": 1731004349895
+    },
+    "Python": {
+      "usageCount": 17,
+      "lastUsed": 1731004350462
+    },
+    "CSS": {
+      "usageCount": 2,
+      "lastUsed": 1731004349595
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>upcoming</find>
+      <find>welcome</find>
+      <find>welcom</find>
+      <find>social</find>
+      <find>leader</find>
+      <find>office</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/templates/front_page.html" />
+      <option value="$PROJECT_DIR$/templates/includes/upcoming_events.html" />
+      <option value="$PROJECT_DIR$/static/css/front_page.css" />
+      <option value="$PROJECT_DIR$/nablapps/core/views.py" />
+      <option value="$PROJECT_DIR$/templates/includes/bedpres_leaderboard.html" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="CSS">
+      <summary usageCount="2" lastUsage="1731004349595" />
+    </language>
+    <language id="HTML">
+      <summary usageCount="18" lastUsage="1731004349895" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="2" lastUsage="1730310412138" />
+    </language>
+    <language id="Python">
+      <summary usageCount="17" lastUsage="1731004350462" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="nablaweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/vemaak/documents/webkom/nablaweb}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nablaweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/vemaak/documents/webkom/nablaweb}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/vemaak/documents/webkom/nablaweb/nablapps}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nablaweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/vemaak/documents/webkom/nablaweb}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/vemaak/documents/webkom/nablaweb/nablapps}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/vemaak/documents/webkom/nablaweb/nablapps/officeCalendar}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nablaweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/vemaak/documents/webkom/nablaweb}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/vemaak/documents/webkom/nablaweb/nablapps}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/vemaak/documents/webkom/nablaweb/nablapps/officeCalendar}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/vemaak/documents/webkom/nablaweb/nablapps/officeCalendar/templates}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nablaweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/vemaak/documents/webkom/nablaweb}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/vemaak/documents/webkom/nablaweb/nablapps}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/vemaak/documents/webkom/nablaweb/nablapps/officeCalendar}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/vemaak/documents/webkom/nablaweb/nablapps/officeCalendar/templates}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/vemaak/documents/webkom/nablaweb/nablapps/officeCalendar/templates/officeCalendar}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nablaweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/vemaak/documents/webkom/nablaweb}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/vemaak/documents/webkom/nablaweb/nablapps}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/vemaak/documents/webkom/nablaweb/nablapps/officeCalendar}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/vemaak/documents/webkom/nablaweb/nablapps/officeCalendar/templates}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/vemaak/documents/webkom/nablaweb/nablapps/officeCalendar/templates/officeCalendar}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/vemaak/documents/webkom/nablaweb/nablapps/officeCalendar/templates/officeCalendar/includes}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nablaweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/vemaak/documents/webkom/nablaweb}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/vemaak/documents/webkom/nablaweb/static}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nablaweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/vemaak/documents/webkom/nablaweb}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/vemaak/documents/webkom/nablaweb/static}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/vemaak/documents/webkom/nablaweb/static/css}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nablaweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/vemaak/documents/webkom/nablaweb}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/vemaak/documents/webkom/nablaweb/templates}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nablaweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/vemaak/documents/webkom/nablaweb}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/vemaak/documents/webkom/nablaweb/templates}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/vemaak/documents/webkom/nablaweb/templates/includes}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nablaweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/vemaak/documents/webkom/nablaweb}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/vemaak/documents/webkom/nablaweb/var}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15731000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7798295" visible="true" weight="0.24921712" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Django.Structure" order="2" sideWeight="0.22017045" side_tool="true" weight="0.24921712" />
+      <window_info id="Bookmarks" order="3" sideWeight="0.22017045" side_tool="true" weight="0.24921712" />
+      <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3303187" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.1" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" weight="0.1" />
+      <unified_weights bottom="0.3303187" left="0.24921712" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Bookmarks</value>
+      <value>Version Control</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-4" y="328" width="1914" height="480" key="#SQL_Dialects.ideScale=150" timestamp="1730314310425">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="-4" y="328" width="1914" height="480" key="#SQL_Dialects.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1730314310425" />
+    <state x="635" y="232" width="640" height="708" key="FileChooserDialogImpl.ideScale=150" timestamp="1731004384384">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="635" y="232" width="640" height="708" key="FileChooserDialogImpl.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1731004384384" />
+    <state x="202" y="33" key="SettingsEditor.ideScale=150" timestamp="1730316731232">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="202" y="33" key="SettingsEditor.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1730316731232" />
+    <state x="453" y="0" width="1018" height="1518" key="search.everywhere.popup.ideScale=150" timestamp="1730315790840">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="453" y="0" width="1018" height="1518" key="search.everywhere.popup.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1730315790840" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nablapps/events/templates/events/event_registrations.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nablapps/events/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14850" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/includes/article_widget.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/front_page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1674">
+          <caret line="62" column="38" selection-start-line="62" selection-start-column="38" selection-end-line="62" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nablapps/officeCalendar/templates/officeCalendar/includes/list.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/front_page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="31" column="59" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/includes/upcoming_events.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1647">
+          <caret line="61" column="32" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="82" />
+          <folding>
+            <element signature="e#1833#1884#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nablapps/interactive/templates/interactive/code_golf.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3537">
+          <caret line="131" column="14" selection-start-line="131" selection-start-column="14" selection-end-line="131" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nablapps/interactive/views/code_golf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2187">
+          <caret line="81" column="51" selection-start-line="81" selection-start-column="51" selection-end-line="81" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nablapps/core/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1782">
+          <caret line="84" column="24" selection-start-line="84" selection-start-column="24" selection-end-line="84" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nablapps/interactive/models/code_golf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1512">
+          <caret line="57" column="28" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nablapps/events/models/eventregistration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/includes/bedpres_leaderboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="723">
+          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+          <folding>
+            <element signature="e#743#768#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

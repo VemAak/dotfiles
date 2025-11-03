@@ -1,0 +1,250 @@
+import numpy as np
+import scipy
+
+def mylu(A: np.ndarray):
+    n, _ = A.shape
+
+    P = np.arange(n)
+    print(P)
+    LU = A.astype(float)
+
+    for k in range(n):
+        max_diag_index = P[k] + np.argmax(np.abs(LU[P[k:], k]))
+        P[k], P[max_diag_index] = P[max_diag_index], P[k]
+
+        for i in range(k + 1, n):
+            LU[P[i], k] = LU[P[i], k] / LU[P[k], k]
+            LU[P[i], k + 1:] = LU[P[i], k + 1:] - LU[P[i], k] * LU[P[k], k + 1:]
+
+    return LU, P
+
+def mylutest(A):
+    p_sc, l_sc, u_sc = scipy.linalg.lu(A, p_indices=True)
+
+    LU_own, p_own = mylu(A)
+
+    l_own = np.tril(LU_own)
+    np.fill_diagonal(l_own, 1)
+
+    u_own = np.triu(LU_own)
+
+    if not np.allclose(p_own, p_sc):
+        print("the p's are not similar")
+        print("P_sc =")
+        print(p_sc)
+        print("P_own = ")
+        print(p_own)
+
+    if not np.allclose(l_own, l_sc):
+        print("the L's are not similar")
+        print("L_sc =")
+        print(l_sc)
+        print("L_own = ")
+        print(l_own)
+
+    if not np.allclose(u_own, u_sc):
+        print("the U's are not similar")
+        print("U_sc =")
+        print(u_sc)
+        print("U_own = ")
+        print(u_own)
+
+Test_array = np.array ([[2, 5, 8, 7], [5, 2, 2, 8], [7, 5, 6, 6], [5, 4, 4, 8]], dtype=float)
+
+mylutest((Test_array))
+
+-. . -..- - / . -. - .-. -.--
+import numpy as np
+import scipy
+
+def mylu(A: np.ndarray):
+    n, _ = A.shape
+
+    P = np.arange(n)
+    print(P)
+    LU = A.astype(float)
+
+    for k in range(n):
+        max_index = k + np.argmax(np.abs(LU[k:, k]))
+        P[k], P[max_index] = P[max_index], P[k]
+        print(P)
+
+        for i in range(k + 1, n):
+            LU[P[i], k] = LU[P[i], k] / LU[P[k], k]
+            LU[P[i], k + 1:] = LU[P[i], k + 1:] - LU[P[i], k] * LU[P[k], k + 1:]
+    print(LU)
+    return LU, P
+
+def mylutest(A):
+    p_sc, l_sc, u_sc = scipy.linalg.lu(A, p_indices=True)
+
+    LU_own, p_own = mylu(A)
+    N = p_own.size
+    l_own = np.zeros_like(LU_own)
+    u_own = np.zeros_like(LU_own)
+
+    for i in range(N):
+        for j in range(N):
+            if i > j:
+                l_own[i, j] = LU_own[p_own[i], j]
+            else:
+                u_own[i, j] = LU_own[p_own[i], j]
+
+
+
+    if not np.allclose(p_own, p_sc):
+        print("the p's are not similar")
+        print("P_sc =")
+        print(p_sc)
+        print("P_own = ")
+        print(p_own)
+
+    if not np.allclose(l_own, l_sc):
+        print("the L's are not similar")
+        print("L_sc =")
+        print(l_sc)
+        print("L_own = ")
+        print(l_own)
+
+    if not np.allclose(u_own, u_sc):
+        print("the U's are not similar")
+        print("U_sc =")
+        print(u_sc)
+        print("U_own = ")
+        print(u_own)
+
+Test_array = np.array ([[2, 5, 8, 7], [5, 2, 2, 8], [7, 5, 6, 6], [5, 4, 4, 8]], dtype=float)
+print(Test_array)
+mylutest((Test_array))
+
+-. . -..- - / . -. - .-. -.--
+import numpy as np
+import scipy
+
+def mylu(A: np.ndarray):
+    n, _ = A.shape
+
+    P = np.arange(n)
+    print(P)
+    LU = A.astype(float)
+
+    for k in range(n):
+        max_index = k + np.argmax(np.abs(LU[k:, k]))
+        P[k], P[max_index] = P[max_index], P[k]
+        print(P)
+
+        for i in range(k + 1, n):
+            LU[P[i], k] = LU[P[i], k] / LU[P[k], k]
+            LU[P[i], k + 1:] = LU[P[i], k + 1:] - LU[P[i], k] * LU[P[k], k + 1:]
+    print(LU)
+    return LU, P
+
+def mylutest(A):
+    p_sc, l_sc, u_sc = scipy.linalg.lu(A, p_indices=True)
+
+    LU_own, p_own = mylu(A)
+    N = p_own.size
+    l_own = np.zeros_like(LU_own)
+    u_own = np.zeros_like(LU_own)
+
+    for i in range(N):
+        for j in range(N):
+            if i > j:
+                l_own[i, j] = LU_own[p_own[i], j]
+            else:
+                u_own[i, j] = LU_own[p_own[i], j]
+    np.fill_diagonal(l_own, 1)
+
+    print(print(np.allclose(A, l_own[p_own, :] @u_own)))
+
+    if not np.allclose(p_own, p_sc):
+        print("the p's are not similar")
+        print("P_sc =")
+        print(p_sc)
+        print("P_own = ")
+        print(p_own)
+
+    if not np.allclose(l_own, l_sc):
+        print("the L's are not similar")
+        print("L_sc =")
+        print(l_sc)
+        print("L_own = ")
+        print(l_own)
+
+    if not np.allclose(u_own, u_sc):
+        print("the U's are not similar")
+        print("U_sc =")
+        print(u_sc)
+        print("U_own = ")
+        print(u_own)
+
+Test_array = np.array ([[2, 5, 8, 7], [5, 2, 2, 8], [7, 5, 6, 6], [5, 4, 4, 8]], dtype=float)
+print(Test_array)
+mylutest((Test_array))
+
+-. . -..- - / . -. - .-. -.--
+import numpy as np
+import scipy
+
+def mylu(A: np.ndarray):
+    n, _ = A.shape
+
+    P = np.arange(n)
+    print(P)
+    LU = A.astype(float)
+
+    for k in range(n):
+        max_index = k + np.argmax(np.abs(LU[P[k:], k]))
+        P[k], P[max_index] = P[max_index], P[k]
+        print(P)
+
+        for i in range(k + 1, n):
+            LU[P[i], k] = LU[P[i], k] / LU[P[k], k]
+            LU[P[i], k + 1:] = LU[P[i], k + 1:] - LU[P[i], k] * LU[P[k], k + 1:]
+        print(LU)
+    return LU, P
+
+def mylutest(A):
+    p_sc, l_sc, u_sc = scipy.linalg.lu(A)
+
+    LU_own, p_own = mylu(A)
+    N = p_own.size
+    l_own = np.zeros_like(LU_own)
+    u_own = np.zeros_like(LU_own)
+
+    for i in range(N):
+        for j in range(N):
+            if i > j:
+                l_own[i, j] = LU_own[p_own[i], j]
+            else:
+                u_own[i, j] = LU_own[p_own[i], j]
+    np.fill_diagonal(l_own, 1)
+
+    p_own_mat = np.eye(N)[p_own, :]
+    print(p_own_mat @ A)
+    print(l_own @u_own)
+
+    if not np.allclose(p_own_mat, p_sc):
+        print("the p's are not similar")
+        print("P_sc =")
+        print(p_sc)
+        print("P_own = ")
+        print(p_own_mat)
+
+    if not np.allclose(l_own, l_sc):
+        print("the L's are not similar")
+        print("L_sc =")
+        print(l_sc)
+        print("L_own = ")
+        print(l_own)
+
+    if not np.allclose(u_own, u_sc):
+        print("the U's are not similar")
+        print("U_sc =")
+        print(u_sc)
+        print("U_own = ")
+        print(u_own)
+
+Test_array = np.array ([[2, 5, 8, 7], [5, 2, 2, 8], [7, 5, 6, 6], [5, 4, 4, 8]], dtype=float)
+print(Test_array)
+mylutest((Test_array))

@@ -1,0 +1,450 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="project2" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="3osv2qjxk1z2f" SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">{
+  &quot;data&quot;: {
+    &quot;GitIgnore file&quot;: {
+      &quot;usageCount&quot;: 3,
+      &quot;lastUsed&quot;: 1729673267285
+    },
+    &quot;Profiler Session&quot;: {
+      &quot;usageCount&quot;: 5,
+      &quot;lastUsed&quot;: 1728900582725
+    },
+    &quot;Markdown&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1728893025402
+    },
+    &quot;Python&quot;: {
+      &quot;usageCount&quot;: 53,
+      &quot;lastUsed&quot;: 1732454928380
+    },
+    &quot;Jupyter&quot;: {
+      &quot;usageCount&quot;: 6,
+      &quot;lastUsed&quot;: 1732454948355
+    },
+    &quot;Image&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1729692714801
+    }
+  }
+}</component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/task1/test.py" />
+      <option value="$PROJECT_DIR$/.gitignore" />
+      <option value="$PROJECT_DIR$/task1/grid_newton.py" />
+      <option value="$PROJECT_DIR$/task1/my_newton.py" />
+      <option value="$PROJECT_DIR$/task1/plot_sol.py" />
+      <option value="$PROJECT_DIR$/task1/phase.py" />
+      <option value="$PROJECT_DIR$/project2.ipynb" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="1801b520-61f1-4f26-b149-77ae233c355d" />
+  <component name="LanguageUsageStatistics">
+    <language id="GitIgnore">
+      <summary usageCount="3" lastUsage="1729673267285" />
+    </language>
+    <language id="Jupyter">
+      <summary usageCount="6" lastUsage="1732454948355" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1728893025403" />
+    </language>
+    <language id="Python">
+      <summary usageCount="53" lastUsage="1732454928380" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="project2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/vemaak/documents/nummat/projects/project2}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="project2" />
+            <item name="project2" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="project2" />
+              <item name="dir{file:///home/vemaak/documents/nummat/projects/project2}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/data" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="data" />
+                <item name="dir{file:///home/vemaak/documents/nummat/projects/project2/data}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/imgs" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="imgs" />
+                <item name="dir{file:///home/vemaak/documents/nummat/projects/project2/imgs}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/task1" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="task1" />
+                <item name="dir{file:///home/vemaak/documents/nummat/projects/project2/task1}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Task2_Bezier" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Task2_Bezier" />
+                <item name="dir{file:///home/vemaak/documents/nummat/projects/project2/Task2_Bezier}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/task3" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="task3" />
+                <item name="dir{file:///home/vemaak/documents/nummat/projects/project2/task3}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/cubic_bezier_animation.gif" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="cubic_bezier_animation.gif" />
+                <item name="cubic_bezier_animation.gif" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Pipfile" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/newui/toml.svg" iconPlugin="org.toml.lang" isLeaf="true" text="Pipfile" />
+                <item name="Pipfile" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Pipfile.lock" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="Pipfile.lock" />
+                <item name="Pipfile.lock" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/project2.ipynb" />
+                  </map>
+                </attributes>
+                <data iconModule="intellij.notebooks.jupyter.core" iconPath="icons/org.jetbrains.plugins.notebooks.jupyter/expui/jupyterNotebook.svg" iconPlugin="com.intellij.notebooks.core" isLeaf="true" text="project2.ipynb" />
+                <item name="project2.ipynb" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/README.md" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                <item name="README.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/S_cropped.svg" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="S_cropped.svg" />
+                <item name="S_cropped.svg" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/task1d.gif" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="task1d.gif" />
+                <item name="task1d.gif" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/test.mp4" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="test.mp4" />
+                <item name="test.mp4" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="57462000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5004735" visible="true" weight="0.086377874" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Bookmarks" order="2" sideWeight="0.4995265" side_tool="true" weight="0.17353863" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3208441" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.3208441" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" weight="0.37252367" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.37252367" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.1" />
+      <window_info anchor="bottom" id="Run" order="7" show_stripe_button="false" weight="0.3208441" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.3303187" />
+      <window_info anchor="bottom" id="Jupyter" order="9" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.33011484" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" weight="0.4334551" />
+      <unified_weights bottom="0.3208441" left="0.086377874" right="0.4334551" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Plots</value>
+      <value>Bookmarks</value>
+      <value>Problems View</value>
+      <value>Version Control</value>
+      <value>Find</value>
+      <value>Python Packages</value>
+      <value>Services</value>
+      <value>Notifications</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="554" y="297" width="798" height="542" key="#com.intellij.fileTypes.FileTypeChooser.ideScale=150" timestamp="1729685243958">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="554" y="297" width="798" height="542" key="#com.intellij.fileTypes.FileTypeChooser.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1729685243958" />
+    <state x="629" y="178" width="640" height="708" key="FileChooserDialogImpl.ideScale=150" timestamp="1732879984262">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="629" y="178" width="640" height="708" key="FileChooserDialogImpl.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1732879984262" />
+    <state width="1792" height="309" key="GridCell.Tab.0.bottom.ideScale=150" timestamp="1729689747918">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1792" height="309" key="GridCell.Tab.0.bottom.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1729689747918" />
+    <state width="1792" height="309" key="GridCell.Tab.0.center.ideScale=150" timestamp="1729689747917">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1792" height="309" key="GridCell.Tab.0.center.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1729689747917" />
+    <state width="1792" height="309" key="GridCell.Tab.0.left.ideScale=150" timestamp="1729689747917">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1792" height="309" key="GridCell.Tab.0.left.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1729689747917" />
+    <state width="1792" height="309" key="GridCell.Tab.0.right.ideScale=150" timestamp="1729689747917">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1792" height="309" key="GridCell.Tab.0.right.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1729689747917" />
+    <state x="335" y="204" width="1240" height="765" key="IDE.errors.dialog.ideScale=150" timestamp="1732454941868">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="335" y="204" width="1240" height="765" key="IDE.errors.dialog.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1732454941868" />
+    <state x="198" y="-3" key="SettingsEditor.ideScale=150" timestamp="1729672197072">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="198" y="-3" key="SettingsEditor.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1729672197072" />
+    <state x="453" y="0" width="1018" height="1518" key="search.everywhere.popup.ideScale=150" timestamp="1729692884965">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="453" y="0" width="1018" height="1518" key="search.everywhere.popup.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1729692884965" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/local/lib/python3.11/site-packages/numpy/linalg/linalg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="904">
+          <caret line="2383" column="4" selection-start-line="2383" selection-start-column="4" selection-end-line="2383" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.11/site-packages/numpy/core/multiarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="1234" column="4" selection-start-line="1234" selection-start-column="4" selection-end-line="1234" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cache/JetBrains/PyCharm2024.1/python_stubs/1456468621/cmath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-364">
+          <caret line="59" column="4" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.11/typing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="1199" column="4" selection-start-line="1199" selection-start-column="4" selection-end-line="1199" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="166" column="5" selection-start-line="166" selection-start-column="5" selection-end-line="166" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task1/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="notebook:///home/vemaak/documents/nummat/projects/project2/project2.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file:///usr/local/lib/python3.11/site-packages/matplotlib/animation.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task1/my_newton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task1/grid_newton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task1d.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task1/plot_sol.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="49" column="36" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task1/phase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project2.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+  </component>
+</project>

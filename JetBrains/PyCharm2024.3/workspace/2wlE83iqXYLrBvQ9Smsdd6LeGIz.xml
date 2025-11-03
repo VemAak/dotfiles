@@ -1,0 +1,209 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="exercise_4" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="asmijx7ak41o" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/task_1.py">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="347">
+              <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"task_1.py","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,127,10,48,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,112,121,116,104,111,110,70,105,108,101,46,115,118,103,18,50,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,101,120,112,117,105,47,112,121,116,104,111,110,46,115,118,103,26,10,80,121,116,104,111,110,67,111,114,101,40,-53,-109,-42,-7,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$USER_HOME$/Downloads/lf04.ipynb">
+          <provider editor-type-id="jupyter-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"lf04.ipynb","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-98,1,10,61,105,99,111,110,115,47,99,111,109,46,106,101,116,98,114,97,105,110,115,46,112,121,116,104,111,110,46,106,117,112,121,116,101,114,47,106,117,112,121,116,101,114,78,111,116,101,98,111,111,107,82,117,110,110,105,110,103,46,115,118,103,18,67,105,99,111,110,115,47,99,111,109,46,106,101,116,98,114,97,105,110,115,46,112,121,116,104,111,110,46,106,117,112,121,116,101,114,47,101,120,112,117,105,47,106,117,112,121,116,101,114,78,111,116,101,98,111,111,107,82,117,110,110,105,110,103,46,115,118,103,26,16,105,110,116,101,108,108,105,106,46,106,117,112,121,116,101,114,40,-79,-123,-98,-93,2,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Python": {
+      "usageCount": 2,
+      "lastUsed": 1746695765957
+    },
+    "Jupyter": {
+      "usageCount": 1,
+      "lastUsed": 1746695787592
+    }
+  }
+}]]></component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/task_1.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="1801b520-61f1-4f26-b149-77ae233c355d" />
+  <component name="LanguageUsageStatistics">
+    <language id="Jupyter">
+      <summary usageCount="1" lastUsage="1746695787592" />
+    </language>
+    <language id="Python">
+      <summary usageCount="2" lastUsage="1746695765959" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="exercise_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/vemaak/documents/numdiff/exercise_4}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="exercise_4" />
+            <item name="exercise_4" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="exercise_4" />
+              <item name="dir{file:///home/vemaak/documents/numdiff/exercise_4}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/task_1.py" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="task_1.py" />
+                <item name="task_1.py" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11201000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16466597" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.1" />
+      <window_info anchor="bottom" id="Run" order="7" show_stripe_button="false" weight="0.29002625" />
+      <window_info anchor="bottom" id="Jupyter" order="8" />
+      <window_info anchor="bottom" id="Debug" order="8" show_stripe_button="false" weight="0.17891514" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.33011484" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" visible="true" weight="0.6437892" />
+      <window_info anchor="right" id="SciView" order="6" weight="0.33011484" />
+      <unified_weights bottom="0.29002625" left="0.16466597" right="0.6437892" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Plots</value>
+      <value>Debug</value>
+      <value>SciView</value>
+      <value>Project</value>
+      <value>Notifications</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="635" y="232" width="640" height="708" key="FileChooserDialogImpl.ideScale=150" timestamp="1746695786457">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="635" y="232" width="640" height="708" key="FileChooserDialogImpl.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1746695786457" />
+    <state width="1792" height="140" key="GridCell.Tab.0.bottom.ideScale=150" timestamp="1746627469246">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1792" height="140" key="GridCell.Tab.0.bottom.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1746627469246" />
+    <state width="1792" height="140" key="GridCell.Tab.0.center.ideScale=150" timestamp="1746627469245">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1792" height="140" key="GridCell.Tab.0.center.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1746627469245" />
+    <state width="1792" height="140" key="GridCell.Tab.0.left.ideScale=150" timestamp="1746627469245">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1792" height="140" key="GridCell.Tab.0.left.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1746627469245" />
+    <state width="1792" height="140" key="GridCell.Tab.0.right.ideScale=150" timestamp="1746627469246">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1792" height="140" key="GridCell.Tab.0.right.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1746627469246" />
+    <state width="1792" height="140" key="GridCell.Tab.1.bottom.ideScale=150" timestamp="1746627469246">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1792" height="140" key="GridCell.Tab.1.bottom.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1746627469246" />
+    <state width="1792" height="140" key="GridCell.Tab.1.center.ideScale=150" timestamp="1746627469246">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1792" height="140" key="GridCell.Tab.1.center.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1746627469246" />
+    <state width="1792" height="140" key="GridCell.Tab.1.left.ideScale=150" timestamp="1746627469246">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1792" height="140" key="GridCell.Tab.1.left.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1746627469246" />
+    <state width="1792" height="140" key="GridCell.Tab.1.right.ideScale=150" timestamp="1746627469246">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1792" height="140" key="GridCell.Tab.1.right.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1746627469246" />
+    <state x="453" y="0" key="search.everywhere.popup.ideScale=150" timestamp="1746607604451">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="453" y="0" key="search.everywhere.popup.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1746607604451" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Downloads/lf04.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

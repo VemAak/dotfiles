@@ -1,0 +1,553 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="2" l="1729075754124" />
+    </e>
+    <e n="$Delete">
+      <i c="6" l="1745843673988" />
+    </e>
+    <e n="$Paste">
+      <i c="1" l="1725607224408" />
+    </e>
+    <e n="$SelectAll">
+      <i c="1" l="1725623362906" />
+    </e>
+    <e n="$Undo">
+      <i c="171" l="1743267064914" />
+    </e>
+    <e n="ActivateBookmarksToolWindow">
+      <i c="5" l="1742916072223" />
+    </e>
+    <e n="ActivateFindToolWindow">
+      <i c="1" l="1728898605018" />
+    </e>
+    <e n="ActivateProjectToolWindow">
+      <i c="9" l="1728469119264" />
+    </e>
+    <e n="ActivateRunToolWindow">
+      <i c="1" l="1729070613082" />
+    </e>
+    <e n="Annotate">
+      <i c="6" l="1742807164304" />
+    </e>
+    <e n="AutoIndentLines">
+      <i c="109" l="1746616772982" />
+    </e>
+    <e n="BraceOrQuoteOut">
+      <i c="16" l="1746616527959" />
+    </e>
+    <e n="ConfigurationXDebuggerResumeAction">
+      <i c="39" l="1745587664333" />
+    </e>
+    <e n="ContextHelp">
+      <i c="3" l="1745514855513" />
+    </e>
+    <e n="Debug">
+      <i c="46" l="1746617303031" />
+    </e>
+    <e n="DeleteRunConfiguration">
+      <i c="1" l="1745828427069" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="14555" l="1746695969427" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="53" l="1746612020925" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="1221" l="1746617065409" />
+    </e>
+    <e n="EditorCompleteStatement">
+      <i c="1" l="1727446494439" />
+    </e>
+    <e n="EditorCopy">
+      <i c="248" l="1743267067056" />
+    </e>
+    <e n="EditorCut">
+      <i c="34" l="1743267057907" />
+    </e>
+    <e n="EditorDelete">
+      <i c="782" l="1746617323514" />
+    </e>
+    <e n="EditorDeleteToWordEnd">
+      <i c="347" l="1745834616606" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="1575" l="1746616077632" />
+    </e>
+    <e n="EditorDown">
+      <i c="457" l="1746616133241" />
+    </e>
+    <e n="EditorDownWithSelection">
+      <i c="22" l="1727431299719" />
+    </e>
+    <e n="EditorDuplicate">
+      <i c="4" l="1727685540564" />
+    </e>
+    <e n="EditorEnter">
+      <i c="2406" l="1746617461819" />
+    </e>
+    <e n="EditorEscape">
+      <i c="3089" l="1746620425279" />
+    </e>
+    <e n="EditorIndentSelection">
+      <i c="10" l="1730316798029" />
+    </e>
+    <e n="EditorLeft">
+      <i c="2970" l="1746611717460" />
+    </e>
+    <e n="EditorLeftWithSelection">
+      <i c="10" l="1743243028253" />
+    </e>
+    <e n="EditorLineStart">
+      <i c="1" l="1727424338592" />
+    </e>
+    <e n="EditorMoveToPageBottom">
+      <i c="2" l="1728471108125" />
+    </e>
+    <e n="EditorMoveToPageTop">
+      <i c="2" l="1729686831173" />
+    </e>
+    <e n="EditorNextWord">
+      <i c="1312" l="1743266890246" />
+    </e>
+    <e n="EditorNextWordWithSelection">
+      <i c="483" l="1730920000330" />
+    </e>
+    <e n="EditorPageDown">
+      <i c="4" l="1729673253221" />
+    </e>
+    <e n="EditorPageUp">
+      <i c="1" l="1727430149338" />
+    </e>
+    <e n="EditorPaste">
+      <i c="322" l="1745587734345" />
+    </e>
+    <e n="EditorPasteFromX11">
+      <i c="63" l="1730919190000" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="713" l="1745514764352" />
+    </e>
+    <e n="EditorPreviousWordWithSelection">
+      <i c="419" l="1730919999867" />
+    </e>
+    <e n="EditorRight">
+      <i c="4449" l="1746616035792" />
+    </e>
+    <e n="EditorRightWithSelection">
+      <i c="15" l="1745928830105" />
+    </e>
+    <e n="EditorSplitLine">
+      <i c="2" l="1727443597814" />
+    </e>
+    <e n="EditorStartNewLineBefore">
+      <i c="8" l="1745847231330" />
+    </e>
+    <e n="EditorTab">
+      <i c="394" l="1746617391930" />
+    </e>
+    <e n="EditorUnindentSelection">
+      <i c="55" l="1745835107991" />
+    </e>
+    <e n="EditorUp">
+      <i c="263" l="1746616054819" />
+    </e>
+    <e n="EditorUpWithSelection">
+      <i c="8" l="1727420755043" />
+    </e>
+    <e n="ExpandLiveTemplateByTab">
+      <i c="1" l="1730917280467" />
+    </e>
+    <e n="ExpressionTypeInfo">
+      <i c="1" l="1745829284879" />
+    </e>
+    <e n="Find">
+      <i c="20" l="1730920530753" />
+    </e>
+    <e n="FindInPath">
+      <i c="1" l="1725613252183" />
+    </e>
+    <e n="FindNext">
+      <i c="5" l="1727689036968" />
+    </e>
+    <e n="Git.Merge.Abort">
+      <i c="3" l="1743075947571" />
+    </e>
+    <e n="Git.ResolveConflicts">
+      <i c="5" l="1725625425077" />
+    </e>
+    <e n="GotoBookmark7">
+      <i c="1" l="1727436887919" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="58" l="1745837188164" />
+    </e>
+    <e n="Help.KeymapReference">
+      <i c="1" l="1725606273325" />
+    </e>
+    <e n="HideAllWindows">
+      <i c="4" l="1745520112710" />
+    </e>
+    <e n="Images.EditExternally">
+      <i c="1" l="1729692737315" />
+    </e>
+    <e n="Images.Editor.ZoomIn">
+      <i c="9" l="1743327565149" />
+    </e>
+    <e n="Images.Editor.ZoomOut">
+      <i c="2" l="1742985888013" />
+    </e>
+    <e n="JupyterClearOutputsAction">
+      <i c="17" l="1745581454290" />
+    </e>
+    <e n="JupyterDebugAction">
+      <i c="2" l="1727446493459" />
+    </e>
+    <e n="JupyterInterruptKernelAction">
+      <i c="21" l="1745847506460" />
+    </e>
+    <e n="JupyterKernelManagementAction">
+      <i c="1" l="1745835268261" />
+    </e>
+    <e n="JupyterNotebookDeleteCellCommandModeAction">
+      <i c="2" l="1745837113585" />
+    </e>
+    <e n="JupyterRestartKernelAction">
+      <i c="5" l="1745847726759" />
+    </e>
+    <e n="JupyterSelectCellAboveCommandModeAction">
+      <i c="17" l="1745908132620" />
+    </e>
+    <e n="JupyterSelectCellBelowCommandModeAction">
+      <i c="17" l="1745840840873" />
+    </e>
+    <e n="JupyterServerChooserAction">
+      <i c="1" l="1745835270195" />
+    </e>
+    <e n="JupyterTrustAction">
+      <i c="1" l="1745835269346" />
+    </e>
+    <e n="MoreRunToolbarActions">
+      <i c="46" l="1743434779865" />
+    </e>
+    <e n="MoveStatementDown">
+      <i c="1" l="1727431297303" />
+    </e>
+    <e n="NavbarPopupMenu">
+      <i c="1" d="1" l="1745514319591" k="1745514319591" />
+    </e>
+    <e n="NewDir">
+      <i c="1" l="1725607210295" />
+    </e>
+    <e n="NewPythonFile">
+      <i c="1" l="1725612626426" />
+    </e>
+    <e n="NextTemplateVariable">
+      <i c="8" l="1743324045235" />
+    </e>
+    <e n="NotebookCellBorderInsertCellAboveAction">
+      <i c="7" l="1729692153373" />
+    </e>
+    <e n="NotebookCellBorderInsertCellAboveNewAction">
+      <i c="16" l="1745838681533" />
+    </e>
+    <e n="NotebookCellBorderInsertMarkdownCellAboveAction">
+      <i c="26" l="1731062618759" />
+    </e>
+    <e n="NotebookCellBorderInsertMarkdownCellAboveNewAction">
+      <i c="12" l="1745995662013" />
+    </e>
+    <e n="NotebookDeleteCellAction">
+      <i c="14" l="1745995637406" />
+    </e>
+    <e n="NotebookEditorGotoRunCellAction">
+      <i c="1" l="1745843224817" />
+    </e>
+    <e n="NotebookInsertCellBelowNewAction">
+      <i c="4" l="1745847222804" />
+    </e>
+    <e n="NotebookInsertMarkdownCellBelowNewAction">
+      <i c="2" l="1745847198507" />
+    </e>
+    <e n="NotebookOutputCollapseSingleInCellAction">
+      <i c="2" l="1727419578675" />
+    </e>
+    <e n="NotebookRunAllAction">
+      <i c="14" l="1745847733481" />
+    </e>
+    <e n="NotebookRunCellAction">
+      <i c="1281" l="1746695973957" />
+    </e>
+    <e n="NotebookSelectCellBelowAction">
+      <i c="1" l="1727442644264" />
+    </e>
+    <e n="OpenFile">
+      <i c="30" l="1746695771494" />
+    </e>
+    <e n="PasteMultiple">
+      <i c="1" l="1729708187055" />
+    </e>
+    <e n="PyExecuteCellAction">
+      <i c="7" l="1727961060084" />
+    </e>
+    <e n="QuickJavaDoc">
+      <i c="10" l="1745837347792" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="12" l="1745828498601" />
+    </e>
+    <e n="ReformatCode">
+      <i c="71" l="1746608533936" />
+    </e>
+    <e n="Register">
+      <i c="1" l="1728897554507" />
+    </e>
+    <e n="RenameElement">
+      <i c="10" l="1743324041022" />
+    </e>
+    <e n="Replace">
+      <i c="3" l="1727437918292" />
+    </e>
+    <e n="ReplaceInPath">
+      <i c="5" l="1743060543171" />
+    </e>
+    <e n="ResetIdeScaleAction">
+      <i c="2" l="1727690525715" />
+    </e>
+    <e n="Run">
+      <i c="983" l="1746624319894" />
+    </e>
+    <e n="RunAnything">
+      <i c="4" l="1742915964932" />
+    </e>
+    <e n="SaveAll">
+      <i c="65" l="1745835240308" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="54" l="1746607603455" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="44" l="1747048911957" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="2" l="1725622624806" />
+    </e>
+    <e n="ShowNavBar">
+      <i c="1" l="1728894485360" />
+    </e>
+    <e n="ShowReformatFileDialog">
+      <i c="2" l="1729705342844" />
+    </e>
+    <e n="ShowSettings">
+      <i c="21" l="1747048905875" />
+    </e>
+    <e n="SpeedSearch">
+      <i c="5" l="1745520047587" />
+    </e>
+    <e n="Stop">
+      <i c="65" l="1746617333361" />
+    </e>
+    <e n="Switcher">
+      <i c="36" l="1742916362159" />
+    </e>
+    <e n="ToggleBookmark">
+      <i c="2" l="1727437003835" />
+    </e>
+    <e n="ToggleBookmark7">
+      <i c="6" l="1727437004676" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="38" l="1746617301099" />
+    </e>
+    <e n="TogglePowerSave">
+      <i c="1" l="1725613266417" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1737569959383" />
+    </e>
+    <e n="WelcomeScreen.Plugins">
+      <i c="20" l="1747048913405" />
+    </e>
+    <e n="ZoomOutIdeAction">
+      <i c="3" l="1725612823064" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.NavigateAction">
+      <i c="2" l="1729705861208" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$SettingsActionGroup">
+      <i c="1" l="1725616006816" />
+    </e>
+    <e n="com.intellij.diagnostic.IdeErrorsDialog$ForwardAction">
+      <i c="1" l="1732454939440" />
+    </e>
+    <e n="com.intellij.execution.ExecutorRegistryImpl$ExecutorAction">
+      <i c="5" l="1728900362900" />
+    </e>
+    <e n="com.intellij.execution.ExecutorRegistryImpl$RunSpecifiedConfigExecutorAction">
+      <i c="1" l="1729703770787" />
+    </e>
+    <e n="com.intellij.execution.actions.RunSpecifiedConfigExecutorAction">
+      <i c="41" l="1743434783438" />
+    </e>
+    <e n="com.intellij.execution.console.ConsoleExecuteAction">
+      <i c="1" l="1727685540894" />
+    </e>
+    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+      <i c="3" l="1743070194329" />
+    </e>
+    <e n="com.intellij.execution.ui.RunToolbarPopupKt$createCurrentFileWithInlineActions$1">
+      <i c="1" l="1745742007335" />
+    </e>
+    <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
+      <i c="12" l="1727689041590" />
+    </e>
+    <e n="com.intellij.find.SearchTextArea$ShowHistoryAction">
+      <i c="1" l="1727267852569" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
+      <i c="47" l="1730920598845" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.PrevOccurrenceAction">
+      <i c="4" l="1730920594770" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.SwitchToFind">
+      <i c="2" l="1730921054594" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.ToggleWholeWordsOnlyAction">
+      <i c="2" l="1727267878135" />
+    </e>
+    <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
+      <i c="1" l="1742921784170" />
+    </e>
+    <e n="com.intellij.ide.actions.CollapseAllAction">
+      <i c="1" l="1725625324492" />
+    </e>
+    <e n="com.intellij.ide.actions.PowerSaveModeNotifier$Util$notifyOnPowerSaveMode$2">
+      <i c="1" l="1725613270430" />
+    </e>
+    <e n="com.intellij.ide.browsers.actions.BaseOpenInBrowserAction">
+      <i c="2" l="1729705506115" />
+    </e>
+    <e n="com.intellij.ide.plugins.PluginManagerMain$3">
+      <i c="2" l="1740068757193" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.PluginsTab$3$1">
+      <i c="1" l="1725625888273" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="8" l="1740388698234" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
+      <i c="11109" l="1746695969424" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.EmptyAction">
+      <i c="17" l="1742916362693" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.impl.MoreActionGroup">
+      <i c="2" l="1743330567662" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
+      <i c="9" l="1729672198785" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="139" l="1745849505827" />
+    </e>
+    <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$AddKeyboardShortcutAction">
+      <i c="2" l="1727437046072" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="37" l="1746607604440" />
+    </e>
+    <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
+      <i c="4" l="1743060552978" />
+    </e>
+    <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
+      <i c="1" l="1730316731220" />
+    </e>
+    <e n="com.intellij.openapi.updateSettings.impl.UpdateSettingsEntryPointActionProvider$3">
+      <i c="1" l="1726760352072" />
+    </e>
+    <e n="com.intellij.openapi.vcs.ex.LocalLineStatusTrackerImpl$LocalLineStatusMarkerRenderer$RollbackLineStatusRangeAction">
+      <i c="15" l="1745739518155" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="37" l="1746616846199" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="49" l="1746695768387" />
+    </e>
+    <e n="com.intellij.python.scientific.actions.ClosePlotAction">
+      <i c="13" l="1745580199261" />
+    </e>
+    <e n="com.intellij.python.scientific.figures.PyPlotToolWindow$ClosePlotAction">
+      <i c="80" l="1731061765513" />
+    </e>
+    <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
+      <i c="1" l="1728897409119" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="304" l="1746620278063" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
+      <i c="3" l="1730313306697" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
+      <i c="56" l="1729706041170" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveUpAction">
+      <i c="13" l="1729706039400" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
+      <i c="15" l="1743060578402" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
+      <i c="1" l="1742921840997" />
+    </e>
+    <e n="com.intellij.ui.components.BasicOptionButtonUI$ActionDelegate">
+      <i c="2" l="1745841396702" />
+    </e>
+    <e n="com.intellij.ui.dsl.builder.components.SegmentedButtonAction">
+      <i c="2" l="1725607175994" />
+    </e>
+    <e n="com.intellij.util.ui.tree.PerFileConfigurableBase$9">
+      <i c="2" l="1730314308979" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="28" l="1746617367287" />
+    </e>
+    <e n="com.jetbrains.python.debugger.PyCythonExtensionWarning$1">
+      <i c="2" l="1743183945985" />
+    </e>
+    <e n="com.jetbrains.python.sdk.AddLocalInterpreterAction">
+      <i c="3" l="1737571306399" />
+    </e>
+    <e n="com.jetbrains.python.sdk.PySdkPopupFactory$SwitchToSdkAction">
+      <i c="2" l="1730312051186" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="85" l="1745928345682" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="1" l="1745828499672" />
+    </e>
+    <e n="org.jetbrains.plugins.notebooks.jupyter.actions.JupyterCellTypeComboBox">
+      <i c="2" l="1729691322593" />
+    </e>
+    <e n="org.jetbrains.plugins.notebooks.jupyter.editor.JupyterAddCellButtonActionDelegate">
+      <i c="112" l="1731069192021" />
+    </e>
+    <e n="org.jetbrains.plugins.notebooks.jupyter.editor.JupyterServerChooserAction">
+      <i c="2" l="1725607168936" />
+    </e>
+    <e n="org.jetbrains.plugins.notebooks.jupyter.editor.JupyterServerChooserAction$createPopupActionGroup$actionList$1">
+      <i c="1" l="1725607169714" />
+    </e>
+    <e n="org.jetbrains.plugins.notebooks.visualization.ui.EditorCellRunGutterButton$RunCellGutterAction">
+      <i c="3" l="1745839817280" />
+    </e>
+    <e n="org.jetbrains.plugins.notebooks.visualization.ui.EditorCellRunGutterButton$StopCellExecutionGutterAction">
+      <i c="4" l="1745840966152" />
+    </e>
+  </component>
+</application>

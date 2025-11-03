@@ -1,0 +1,174 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="project_1" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2lkp8b7duf0f3" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/task2a.py">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="432">
+              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/task2b.py">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="669">
+              <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Python": {
+      "usageCount": 7,
+      "lastUsed": 1727856793120
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/task2.py" />
+      <option value="$PROJECT_DIR$/task2b.py" />
+      <option value="$PROJECT_DIR$/task2a.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Python">
+      <summary usageCount="7" lastUsage="1727856793120" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="project_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/vemaak/documents/stokmod/projects/project_1}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10657000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1401357" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.5775194" />
+      <window_info anchor="bottom" id="Run" order="7" show_stripe_button="false" weight="0.39147288" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" visible="true" weight="0.39222336" />
+      <unified_weights bottom="0.39147288" left="0.1401357" right="0.39222336" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Plots</value>
+      <value>Project</value>
+      <value>Python Console</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="635" y="232" width="640" height="708" key="FileChooserDialogImpl.ideScale=150" timestamp="1727856812821">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="635" y="232" width="640" height="708" key="FileChooserDialogImpl.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1727856812821" />
+    <state width="1792" height="391" key="GridCell.Tab.0.bottom.ideScale=150" timestamp="1727783841607">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1792" height="391" key="GridCell.Tab.0.bottom.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1727783841607" />
+    <state width="1792" height="391" key="GridCell.Tab.0.center.ideScale=150" timestamp="1727783841606">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1792" height="391" key="GridCell.Tab.0.center.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1727783841606" />
+    <state width="1792" height="391" key="GridCell.Tab.0.left.ideScale=150" timestamp="1727783841606">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1792" height="391" key="GridCell.Tab.0.left.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1727783841606" />
+    <state width="1792" height="391" key="GridCell.Tab.0.right.ideScale=150" timestamp="1727783841607">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1792" height="391" key="GridCell.Tab.0.right.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1727783841607" />
+    <state x="454" y="226" key="SettingsEditor.ideScale=150" timestamp="1727690542334">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="454" y="226" key="SettingsEditor.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1727690542334" />
+    <state x="453" y="0" width="1018" height="1518" key="search.everywhere.popup.ideScale=150" timestamp="1727689158780">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="453" y="0" width="1018" height="1518" key="search.everywhere.popup.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1727689158780" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/task2.py" />
+    <entry file="file://$PROJECT_DIR$/task2a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task2b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="669">
+          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

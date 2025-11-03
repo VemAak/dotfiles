@@ -1,0 +1,42 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/PycharmProjects/pythonProject">
+          <value>
+            <RecentProjectMetaInfo frameTitle="pythonProject" projectWorkspaceId="2lMuCKwla3jpFIRA4DHhqr84HKF">
+              <option name="activationTimestamp" value="1725002179176" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-241.17890.14" />
+              <option name="buildTimestamp" value="1717530660000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="0" y="19" width="1920" height="1181" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1725002138543" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/documents/nummat/NumMat-exercises">
+          <value>
+            <RecentProjectMetaInfo frameTitle="NumMat-exercises" opened="true" projectWorkspaceId="2lNSMO01gcxLB9P9xgUBhIkXzrG">
+              <option name="activationTimestamp" value="1725019986972" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-241.17890.14" />
+              <option name="buildTimestamp" value="1717530660000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="960" y="19" width="960" height="1181" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1725019067585" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/documents/nummat/NumMat-exercises" />
+    <option name="lastProjectLocation" value="$USER_HOME$/PycharmProjects" />
+  </component>
+</application>

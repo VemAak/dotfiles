@@ -1,0 +1,5 @@
+import scipy.stats as st
+
+exp_dist = st.expon
+
+print(exp_dist.rvs(10, 1/10))

@@ -1,0 +1,405 @@
+<application>
+  <component name="ApplicationUserFactors">
+    <factor id="completionFinishedType">
+      <dailyData date="03-10-2024">
+        <observation name="cancelled" value="289.0" />
+        <observation name="explicitSelect" value="4.0" />
+        <observation name="typedSelect" value="9.0" />
+      </dailyData>
+      <dailyData date="09-10-2024">
+        <observation name="cancelled" value="121.0" />
+        <observation name="explicitSelect" value="51.0" />
+        <observation name="typedSelect" value="149.0" />
+      </dailyData>
+      <dailyData date="14-10-2024">
+        <observation name="cancelled" value="222.0" />
+        <observation name="explicitSelect" value="75.0" />
+        <observation name="typedSelect" value="246.0" />
+      </dailyData>
+      <dailyData date="16-10-2024">
+        <observation name="cancelled" value="159.0" />
+        <observation name="explicitSelect" value="62.0" />
+        <observation name="typedSelect" value="150.0" />
+      </dailyData>
+      <dailyData date="23-10-2024">
+        <observation name="cancelled" value="876.0" />
+        <observation name="explicitSelect" value="74.0" />
+        <observation name="typedSelect" value="74.0" />
+      </dailyData>
+      <dailyData date="30-10-2024">
+        <observation name="cancelled" value="1.0" />
+      </dailyData>
+      <dailyData date="07-11-2024">
+        <observation name="cancelled" value="108.0" />
+        <observation name="explicitSelect" value="43.0" />
+        <observation name="typedSelect" value="142.0" />
+      </dailyData>
+      <dailyData date="08-11-2024">
+        <observation name="cancelled" value="141.0" />
+        <observation name="explicitSelect" value="32.0" />
+        <observation name="typedSelect" value="147.0" />
+      </dailyData>
+      <dailyData date="09-11-2024">
+        <observation name="cancelled" value="58.0" />
+        <observation name="explicitSelect" value="21.0" />
+        <observation name="typedSelect" value="36.0" />
+      </dailyData>
+      <dailyData date="10-11-2024">
+        <observation name="cancelled" value="145.0" />
+        <observation name="explicitSelect" value="30.0" />
+        <observation name="typedSelect" value="24.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionType">
+      <dailyData date="03-10-2024">
+        <observation name="BASIC" value="26.0" />
+      </dailyData>
+      <dailyData date="09-10-2024">
+        <observation name="BASIC" value="258.0" />
+      </dailyData>
+      <dailyData date="14-10-2024">
+        <observation name="BASIC" value="434.0" />
+      </dailyData>
+      <dailyData date="16-10-2024">
+        <observation name="BASIC" value="309.0" />
+      </dailyData>
+      <dailyData date="23-10-2024">
+        <observation name="BASIC" value="234.0" />
+      </dailyData>
+      <dailyData date="30-10-2024">
+        <observation name="BASIC" value="1.0" />
+      </dailyData>
+      <dailyData date="07-11-2024">
+        <observation name="BASIC" value="257.0" />
+      </dailyData>
+      <dailyData date="08-11-2024">
+        <observation name="BASIC" value="259.0" />
+      </dailyData>
+      <dailyData date="09-11-2024">
+        <observation name="BASIC" value="84.0" />
+      </dailyData>
+      <dailyData date="10-11-2024">
+        <observation name="BASIC" value="65.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionUsage">
+      <dailyData date="03-10-2024">
+        <observation name="count" value="302.0" />
+      </dailyData>
+      <dailyData date="09-10-2024">
+        <observation name="count" value="321.0" />
+      </dailyData>
+      <dailyData date="14-10-2024">
+        <observation name="count" value="543.0" />
+      </dailyData>
+      <dailyData date="16-10-2024">
+        <observation name="count" value="371.0" />
+      </dailyData>
+      <dailyData date="23-10-2024">
+        <observation name="count" value="1024.0" />
+      </dailyData>
+      <dailyData date="30-10-2024">
+        <observation name="count" value="1.0" />
+      </dailyData>
+      <dailyData date="07-11-2024">
+        <observation name="count" value="293.0" />
+      </dailyData>
+      <dailyData date="08-11-2024">
+        <observation name="count" value="320.0" />
+      </dailyData>
+      <dailyData date="09-11-2024">
+        <observation name="count" value="115.0" />
+      </dailyData>
+      <dailyData date="10-11-2024">
+        <observation name="count" value="199.0" />
+      </dailyData>
+    </factor>
+    <factor id="itemPosition">
+      <dailyData date="02-10-2024">
+        <observation name="0" value="69.0" />
+        <observation name="1" value="9.0" />
+        <observation name="3" value="1.0" />
+      </dailyData>
+      <dailyData date="03-10-2024">
+        <observation name="0" value="4.0" />
+      </dailyData>
+      <dailyData date="09-10-2024">
+        <observation name="0" value="39.0" />
+        <observation name="1" value="11.0" />
+        <observation name="5" value="1.0" />
+      </dailyData>
+      <dailyData date="14-10-2024">
+        <observation name="0" value="64.0" />
+        <observation name="1" value="10.0" />
+        <observation name="2" value="1.0" />
+      </dailyData>
+      <dailyData date="16-10-2024">
+        <observation name="0" value="50.0" />
+        <observation name="1" value="7.0" />
+        <observation name="2" value="5.0" />
+      </dailyData>
+      <dailyData date="23-10-2024">
+        <observation name="0" value="73.0" />
+        <observation name="1" value="1.0" />
+      </dailyData>
+      <dailyData date="07-11-2024">
+        <observation name="0" value="40.0" />
+        <observation name="1" value="3.0" />
+      </dailyData>
+      <dailyData date="08-11-2024">
+        <observation name="0" value="24.0" />
+        <observation name="1" value="7.0" />
+        <observation name="3" value="1.0" />
+      </dailyData>
+      <dailyData date="09-11-2024">
+        <observation name="0" value="18.0" />
+        <observation name="1" value="3.0" />
+      </dailyData>
+      <dailyData date="10-11-2024">
+        <observation name="0" value="30.0" />
+      </dailyData>
+    </factor>
+    <factor id="mnemonicsUsage">
+      <dailyData date="02-10-2024">
+        <observation name="total" value="76.0" />
+        <observation name="withMnemonics" value="1.0" />
+      </dailyData>
+      <dailyData date="03-10-2024">
+        <observation name="total" value="3.0" />
+        <observation name="withMnemonics" value="0.0" />
+      </dailyData>
+      <dailyData date="09-10-2024">
+        <observation name="total" value="50.0" />
+        <observation name="withMnemonics" value="3.0" />
+      </dailyData>
+      <dailyData date="14-10-2024">
+        <observation name="total" value="70.0" />
+        <observation name="withMnemonics" value="2.0" />
+      </dailyData>
+      <dailyData date="16-10-2024">
+        <observation name="total" value="59.0" />
+        <observation name="withMnemonics" value="0.0" />
+      </dailyData>
+      <dailyData date="23-10-2024">
+        <observation name="total" value="71.0" />
+        <observation name="withMnemonics" value="2.0" />
+      </dailyData>
+      <dailyData date="07-11-2024">
+        <observation name="total" value="42.0" />
+        <observation name="withMnemonics" value="0.0" />
+      </dailyData>
+      <dailyData date="08-11-2024">
+        <observation name="total" value="31.0" />
+        <observation name="withMnemonics" value="0.0" />
+      </dailyData>
+      <dailyData date="09-11-2024">
+        <observation name="total" value="21.0" />
+        <observation name="withMnemonics" value="0.0" />
+      </dailyData>
+      <dailyData date="10-11-2024">
+        <observation name="total" value="29.0" />
+        <observation name="withMnemonics" value="6.0" />
+      </dailyData>
+    </factor>
+    <factor id="prefixLength">
+      <dailyData date="02-10-2024">
+        <observation name="0" value="1.0" />
+        <observation name="1" value="2.0" />
+        <observation name="14" value="1.0" />
+        <observation name="15" value="1.0" />
+        <observation name="2" value="8.0" />
+        <observation name="3" value="20.0" />
+        <observation name="4" value="24.0" />
+        <observation name="5" value="11.0" />
+        <observation name="6" value="2.0" />
+        <observation name="7" value="6.0" />
+        <observation name="8" value="1.0" />
+        <observation name="9" value="2.0" />
+      </dailyData>
+      <dailyData date="03-10-2024">
+        <observation name="1" value="1.0" />
+        <observation name="3" value="2.0" />
+        <observation name="5" value="1.0" />
+      </dailyData>
+      <dailyData date="09-10-2024">
+        <observation name="1" value="1.0" />
+        <observation name="2" value="8.0" />
+        <observation name="3" value="14.0" />
+        <observation name="4" value="13.0" />
+        <observation name="5" value="13.0" />
+        <observation name="7" value="2.0" />
+      </dailyData>
+      <dailyData date="14-10-2024">
+        <observation name="0" value="2.0" />
+        <observation name="1" value="3.0" />
+        <observation name="2" value="14.0" />
+        <observation name="3" value="25.0" />
+        <observation name="4" value="18.0" />
+        <observation name="5" value="6.0" />
+        <observation name="6" value="6.0" />
+        <observation name="8" value="1.0" />
+      </dailyData>
+      <dailyData date="16-10-2024">
+        <observation name="1" value="3.0" />
+        <observation name="12" value="2.0" />
+        <observation name="2" value="5.0" />
+        <observation name="3" value="18.0" />
+        <observation name="4" value="26.0" />
+        <observation name="5" value="6.0" />
+        <observation name="6" value="2.0" />
+      </dailyData>
+      <dailyData date="23-10-2024">
+        <observation name="1" value="3.0" />
+        <observation name="2" value="11.0" />
+        <observation name="3" value="31.0" />
+        <observation name="4" value="10.0" />
+        <observation name="5" value="14.0" />
+        <observation name="6" value="3.0" />
+        <observation name="7" value="1.0" />
+        <observation name="8" value="1.0" />
+      </dailyData>
+      <dailyData date="07-11-2024">
+        <observation name="1" value="1.0" />
+        <observation name="3" value="7.0" />
+        <observation name="4" value="14.0" />
+        <observation name="5" value="13.0" />
+        <observation name="6" value="6.0" />
+        <observation name="8" value="2.0" />
+      </dailyData>
+      <dailyData date="08-11-2024">
+        <observation name="1" value="1.0" />
+        <observation name="3" value="6.0" />
+        <observation name="4" value="9.0" />
+        <observation name="5" value="9.0" />
+        <observation name="6" value="5.0" />
+        <observation name="7" value="2.0" />
+      </dailyData>
+      <dailyData date="09-11-2024">
+        <observation name="3" value="2.0" />
+        <observation name="4" value="13.0" />
+        <observation name="5" value="6.0" />
+      </dailyData>
+      <dailyData date="10-11-2024">
+        <observation name="1" value="1.0" />
+        <observation name="14" value="1.0" />
+        <observation name="15" value="1.0" />
+        <observation name="2" value="1.0" />
+        <observation name="3" value="6.0" />
+        <observation name="4" value="9.0" />
+        <observation name="5" value="7.0" />
+        <observation name="6" value="1.0" />
+        <observation name="9" value="3.0" />
+      </dailyData>
+    </factor>
+    <factor id="prefixMatchingType">
+      <dailyData date="02-10-2024">
+        <observation name="GREEDY_WITH_CASE" value="1.0" />
+        <observation name="START_WITH" value="75.0" />
+      </dailyData>
+      <dailyData date="03-10-2024">
+        <observation name="START_WITH" value="3.0" />
+      </dailyData>
+      <dailyData date="09-10-2024">
+        <observation name="GREEDY_WITH_CASE" value="1.0" />
+        <observation name="START_WITH" value="47.0" />
+      </dailyData>
+      <dailyData date="14-10-2024">
+        <observation name="START_WITH" value="68.0" />
+        <observation name="WORDS_FIRST_CHAR" value="1.0" />
+      </dailyData>
+      <dailyData date="16-10-2024">
+        <observation name="START_WITH" value="59.0" />
+      </dailyData>
+      <dailyData date="23-10-2024">
+        <observation name="GREEDY_WITH_CASE" value="1.0" />
+        <observation name="START_WITH" value="70.0" />
+      </dailyData>
+      <dailyData date="07-11-2024">
+        <observation name="START_WITH" value="42.0" />
+      </dailyData>
+      <dailyData date="08-11-2024">
+        <observation name="START_WITH" value="31.0" />
+      </dailyData>
+      <dailyData date="09-11-2024">
+        <observation name="START_WITH" value="21.0" />
+      </dailyData>
+      <dailyData date="10-11-2024">
+        <observation name="START_WITH" value="29.0" />
+      </dailyData>
+    </factor>
+    <factor id="templatesUsage">
+      <dailyData date="02-10-2024">
+        <observation name="totalStartingWithPrefix" value="78.0" />
+      </dailyData>
+      <dailyData date="03-10-2024">
+        <observation name="totalStartingWithPrefix" value="4.0" />
+      </dailyData>
+      <dailyData date="09-10-2024">
+        <observation name="totalStartingWithPrefix" value="48.0" />
+      </dailyData>
+      <dailyData date="14-10-2024">
+        <observation name="totalStartingWithPrefix" value="73.0" />
+      </dailyData>
+      <dailyData date="16-10-2024">
+        <observation name="totalStartingWithPrefix" value="62.0" />
+      </dailyData>
+      <dailyData date="23-10-2024">
+        <observation name="totalStartingWithPrefix" value="72.0" />
+      </dailyData>
+      <dailyData date="07-11-2024">
+        <observation name="totalStartingWithPrefix" value="43.0" />
+      </dailyData>
+      <dailyData date="08-11-2024">
+        <observation name="totalStartingWithPrefix" value="32.0" />
+      </dailyData>
+      <dailyData date="09-11-2024">
+        <observation name="totalStartingWithPrefix" value="21.0" />
+      </dailyData>
+      <dailyData date="10-11-2024">
+        <observation name="totalStartingWithPrefix" value="24.0" />
+      </dailyData>
+    </factor>
+    <factor id="timeBetweenTyping">
+      <dailyData date="02-10-2024">
+        <observation name="average" value="216.734483" />
+        <observation name="count" value="580.0" />
+      </dailyData>
+      <dailyData date="03-10-2024">
+        <observation name="average" value="185.476191" />
+        <observation name="count" value="42.0" />
+      </dailyData>
+      <dailyData date="09-10-2024">
+        <observation name="average" value="187.439776" />
+        <observation name="count" value="357.0" />
+      </dailyData>
+      <dailyData date="14-10-2024">
+        <observation name="average" value="182.813559" />
+        <observation name="count" value="531.0" />
+      </dailyData>
+      <dailyData date="16-10-2024">
+        <observation name="average" value="210.959184" />
+        <observation name="count" value="441.0" />
+      </dailyData>
+      <dailyData date="23-10-2024">
+        <observation name="average" value="186.608218" />
+        <observation name="count" value="365.0" />
+      </dailyData>
+      <dailyData date="07-11-2024">
+        <observation name="average" value="193.313725" />
+        <observation name="count" value="510.0" />
+      </dailyData>
+      <dailyData date="08-11-2024">
+        <observation name="average" value="220.130705" />
+        <observation name="count" value="482.0" />
+      </dailyData>
+      <dailyData date="09-11-2024">
+        <observation name="average" value="202.771654" />
+        <observation name="count" value="127.0" />
+      </dailyData>
+      <dailyData date="10-11-2024">
+        <observation name="average" value="213.393701" />
+        <observation name="count" value="127.0" />
+      </dailyData>
+    </factor>
+  </component>
+</application>

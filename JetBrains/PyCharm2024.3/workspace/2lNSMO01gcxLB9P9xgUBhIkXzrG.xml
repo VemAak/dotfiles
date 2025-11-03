@@ -1,0 +1,381 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="NumMat-exercises" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="1ie3hsju8kx6" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/exercise5/problem2.py">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="669">
+              <caret line="110" selection-start-line="110" selection-end-line="110" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercise4/task2.py">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercise4/task3.py">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1701">
+              <caret line="63" column="10" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercise4/task4.py">
+          <provider editor-type-id="text-editor" selected="true">
+            <state>
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Jupyter": {
+      "usageCount": 20,
+      "lastUsed": 1731062355878
+    },
+    "TOML": {
+      "usageCount": 2,
+      "lastUsed": 1725606915603
+    },
+    "GitIgnore file": {
+      "usageCount": 3,
+      "lastUsed": 1728382494767
+    },
+    "IDEA_MODULE": {
+      "usageCount": 1,
+      "lastUsed": 1725607524509
+    },
+    "Python": {
+      "usageCount": 23,
+      "lastUsed": 1731148355222
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/exercise2</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="LOCAL" type="ae103dac:GitBranchType" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/.gitignore" />
+      <option value="$PROJECT_DIR$/exercise2/Problem2.py" />
+      <option value="$PROJECT_DIR$/exercise2/exercise2.ipynb" />
+      <option value="$PROJECT_DIR$/exercise3/exercise3.ipynb" />
+      <option value="$PROJECT_DIR$/exercise4/task3.py" />
+      <option value="$PROJECT_DIR$/exercise4/exercise4.ipynb" />
+      <option value="$PROJECT_DIR$/exercise5/problem2.py" />
+      <option value="$PROJECT_DIR$/exercise5/exercise5.ipynb" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="1801b520-61f1-4f26-b149-77ae233c355d" />
+  <component name="LanguageUsageStatistics">
+    <language id="GitIgnore">
+      <summary usageCount="3" lastUsage="1728382494767" />
+    </language>
+    <language id="Jupyter">
+      <summary usageCount="20" lastUsage="1731062355878" />
+    </language>
+    <language id="Python">
+      <summary usageCount="23" lastUsage="1731148355222" />
+    </language>
+    <language id="TOML">
+      <summary usageCount="2" lastUsage="1725606915605" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="NumMat-exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/vemaak/documents/nummat/NumMat-exercises}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NumMat-exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/vemaak/documents/nummat/NumMat-exercises}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/vemaak/documents/nummat/NumMat-exercises/exercise4}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NumMat-exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/vemaak/documents/nummat/NumMat-exercises}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/vemaak/documents/nummat/NumMat-exercises/exercise5}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="51583000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5004735" visible="true" weight="0.20172234" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info active="true" id="Bookmarks" order="2" sideWeight="0.4995265" side_tool="true" visible="true" weight="0.20172234" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="0" show_stripe_button="false" side_tool="true" weight="0.43109387" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Problems" order="2" />
+      <window_info anchor="bottom" id="Problems View" order="3" weight="0.42506462" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Python Packages" order="6" weight="0.33041668" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.10034453" />
+      <window_info anchor="bottom" id="Jupyter" order="8" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" weight="0.70955116" />
+      <unified_weights bottom="0.43109387" left="0.20172234" right="0.70955116" />
+    </layoutV2>
+    <recentWindows>
+      <value>Bookmarks</value>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Plots</value>
+      <value>Problems View</value>
+      <value>Python Packages</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="661" y="290" key="FileChooserDialogImpl.ideScale=125" timestamp="1726760303489">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="661" y="290" key="FileChooserDialogImpl.ideScale=125/0.0.1920.1200@0.0.1920.1200" timestamp="1726760303489" />
+    <state x="627" y="160" width="720" height="708" key="FileChooserDialogImpl.ideScale=150" timestamp="1731148522672">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="627" y="160" width="720" height="708" key="FileChooserDialogImpl.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1731148522672" />
+    <state width="1814" height="440" key="GridCell.Tab.0.bottom.ideScale=125" timestamp="1725625897474">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1814" height="440" key="GridCell.Tab.0.bottom.ideScale=125/0.0.1920.1200@0.0.1920.1200" timestamp="1725625897474" />
+    <state width="1792" height="437" key="GridCell.Tab.0.bottom.ideScale=150" timestamp="1731073174114">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1792" height="437" key="GridCell.Tab.0.bottom.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1731073174114" />
+    <state width="1814" height="440" key="GridCell.Tab.0.center.ideScale=125" timestamp="1725625897473">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1814" height="440" key="GridCell.Tab.0.center.ideScale=125/0.0.1920.1200@0.0.1920.1200" timestamp="1725625897473" />
+    <state width="1792" height="437" key="GridCell.Tab.0.center.ideScale=150" timestamp="1731073174113">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1792" height="437" key="GridCell.Tab.0.center.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1731073174113" />
+    <state width="1814" height="440" key="GridCell.Tab.0.left.ideScale=125" timestamp="1725625897473">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1814" height="440" key="GridCell.Tab.0.left.ideScale=125/0.0.1920.1200@0.0.1920.1200" timestamp="1725625897473" />
+    <state width="1792" height="437" key="GridCell.Tab.0.left.ideScale=150" timestamp="1731073174112">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1792" height="437" key="GridCell.Tab.0.left.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1731073174112" />
+    <state width="1814" height="440" key="GridCell.Tab.0.right.ideScale=125" timestamp="1725625897474">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1814" height="440" key="GridCell.Tab.0.right.ideScale=125/0.0.1920.1200@0.0.1920.1200" timestamp="1725625897474" />
+    <state width="1792" height="437" key="GridCell.Tab.0.right.ideScale=150" timestamp="1731073174113">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1792" height="437" key="GridCell.Tab.0.right.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1731073174113" />
+    <state x="204" y="80" width="1540" height="980" key="MergeDialog.ideScale=125" timestamp="1725625467961">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="204" y="80" width="1540" height="980" key="MergeDialog.ideScale=125/0.0.1920.1200@0.0.1920.1200" timestamp="1725625467961" />
+    <state x="470" y="221" width="953" height="587" key="MultipleFileMergeDialog.ideScale=125" timestamp="1725625472600">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="470" y="221" width="953" height="587" key="MultipleFileMergeDialog.ideScale=125/0.0.1920.1200@0.0.1920.1200" timestamp="1725625472600" />
+    <state x="448" y="155" key="SettingsEditor" timestamp="1725612818097">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="432" y="11" key="SettingsEditor.ideScale=125" timestamp="1725625888986">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="432" y="11" key="SettingsEditor.ideScale=125/0.0.1920.1200@0.0.1920.1200" timestamp="1725625888986" />
+    <state x="409" y="84" key="SettingsEditor.ideScale=150" timestamp="1731053366949">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="409" y="84" key="SettingsEditor.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1731053366949" />
+    <state x="448" y="155" key="SettingsEditor/0.0.1920.1200@0.0.1920.1200" timestamp="1725612818097" />
+    <state x="566" y="231" width="754" height="584" key="Vcs.Multiple.Commit.Info.Dialog.Key.ideScale=125" timestamp="1725625331202">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="566" y="231" width="754" height="584" key="Vcs.Multiple.Commit.Info.Dialog.Key.ideScale=125/0.0.1920.1200@0.0.1920.1200" timestamp="1725625331202" />
+    <state x="648" y="129" width="790" height="1071" key="find.popup.ideScale=125" timestamp="1725613254874">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="648" y="129" width="790" height="1071" key="find.popup.ideScale=125/0.0.1920.1200@0.0.1920.1200" timestamp="1725613254874" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Pipfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise1/.idea/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise1/.idea/exercise1.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise1/exercise1.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise2/subs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise2/exercise2.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise2/Problem2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="939">
+          <caret line="68" selection-start-line="68" selection-end-line="69" selection-end-column="73" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1045">
+          <caret line="153" column="8" selection-start-line="153" selection-start-column="8" selection-end-line="153" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cache/JetBrains/PyCharm2024.1/python_stubs/1456468621/time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="172" column="4" selection-start-line="172" selection-start-column="4" selection-end-line="172" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise3/exercise3.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../projects/project1/project1.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise4/exercise4.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise5/exercise5.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="notebook:///home/vemaak/documents/nummat/NumMat-exercises/exercise5/exercise5.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise4/task2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise4/task3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1701">
+          <caret line="63" column="10" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise4/task4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise5/problem2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="669">
+          <caret line="110" selection-start-line="110" selection-end-line="110" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

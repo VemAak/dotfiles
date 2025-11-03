@@ -1,0 +1,245 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="StokMod-project-1" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2lkp8b7duf0f3" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/task1f.py">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="567">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/task1e.py">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="588">
+              <caret line="30" column="63" selection-start-line="30" selection-start-column="63" selection-end-line="30" selection-end-column="63" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/task2a.py">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="864">
+              <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Markdown": {
+      "usageCount": 1,
+      "lastUsed": 1727873133939
+    },
+    "Python": {
+      "usageCount": 28,
+      "lastUsed": 1728382465851
+    },
+    "Image": {
+      "usageCount": 1,
+      "lastUsed": 1727960642160
+    },
+    "SVG": {
+      "usageCount": 4,
+      "lastUsed": 1727960763374
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/task2b.py" />
+      <option value="$PROJECT_DIR$/task1f.py" />
+      <option value="$PROJECT_DIR$/task2a.py" />
+      <option value="$PROJECT_DIR$/task1e.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1727873133940" />
+    </language>
+    <language id="Python">
+      <summary usageCount="28" lastUsage="1728382465851" />
+    </language>
+    <language id="SVG">
+      <summary usageCount="4" lastUsage="1727960763374" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="StokMod-project-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/vemaak/documents/stokmod/projects/StokMod-project-1}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StokMod-project-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/vemaak/documents/stokmod/projects/StokMod-project-1}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/vemaak/documents/stokmod/projects/StokMod-project-1/plots}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16731000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16623172" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.33548665" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.10034453" />
+      <window_info anchor="bottom" id="Run" order="7" show_stripe_button="false" weight="0.10034453" />
+      <window_info anchor="bottom" id="Debug" order="8" show_stripe_button="false" weight="0.14082688" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" weight="0.28575158" />
+      <unified_weights bottom="0.10034453" left="0.16623172" right="0.28575158" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Project</value>
+      <value>Plots</value>
+      <value>Problems View</value>
+      <value>Python Console</value>
+      <value>Debug</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="612" y="196" key="FileChooserDialogImpl.ideScale=150" timestamp="1728382477299">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="612" y="196" key="FileChooserDialogImpl.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1728382477299" />
+    <state width="1792" height="53" key="GridCell.Tab.0.bottom.ideScale=150" timestamp="1727967191782">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1792" height="53" key="GridCell.Tab.0.bottom.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1727967191782" />
+    <state width="1792" height="53" key="GridCell.Tab.0.center.ideScale=150" timestamp="1727967191781">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1792" height="53" key="GridCell.Tab.0.center.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1727967191781" />
+    <state width="1792" height="53" key="GridCell.Tab.0.left.ideScale=150" timestamp="1727967191781">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1792" height="53" key="GridCell.Tab.0.left.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1727967191781" />
+    <state width="1792" height="53" key="GridCell.Tab.0.right.ideScale=150" timestamp="1727967191781">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1792" height="53" key="GridCell.Tab.0.right.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1727967191781" />
+    <state width="1792" height="100" key="GridCell.Tab.1.bottom.ideScale=150" timestamp="1727878912915">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1792" height="100" key="GridCell.Tab.1.bottom.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1727878912915" />
+    <state width="1792" height="100" key="GridCell.Tab.1.center.ideScale=150" timestamp="1727878912915">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1792" height="100" key="GridCell.Tab.1.center.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1727878912915" />
+    <state width="1792" height="100" key="GridCell.Tab.1.left.ideScale=150" timestamp="1727878912914">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1792" height="100" key="GridCell.Tab.1.left.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1727878912914" />
+    <state width="1792" height="100" key="GridCell.Tab.1.right.ideScale=150" timestamp="1727878912915">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1792" height="100" key="GridCell.Tab.1.right.ideScale=150/0.0.1920.1200@0.0.1920.1200" timestamp="1727878912915" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task1.py" />
+    <entry file="file://$PROJECT_DIR$/task2b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="39" column="46" lean-forward="true" selection-start-line="39" selection-start-column="46" selection-end-line="39" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task1c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="42" column="4" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plots/task1e.png" />
+    <entry file="file://$PROJECT_DIR$/plots/task1e.svg" />
+    <entry file="file://$PROJECT_DIR$/plots/task2a.svg" />
+    <entry file="file://$PROJECT_DIR$/task1f.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task2a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task1e.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="30" column="63" lean-forward="true" selection-start-line="30" selection-start-column="63" selection-end-line="30" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

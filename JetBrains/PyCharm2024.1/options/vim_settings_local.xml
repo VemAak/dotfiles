@@ -1,0 +1,498 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">bXA0</entry>
+        <entry encoding="base64">Y2FsbGFibGU=</entry>
+        <entry encoding="base64">Q2FsbA==</entry>
+        <entry encoding="base64">c25z</entry>
+        <entry encoding="base64">bGVhZGVyYm9hcmQ=</entry>
+        <entry encoding="base64">dXBjb21pbmc=</entry>
+        <entry encoding="base64">ZXZlbnQ=</entry>
+        <entry encoding="base64">aGVhZGxpbmU=</entry>
+        <entry encoding="base64">bGVhZGVy</entry>
+        <entry encoding="base64">cmVzdWx0</entry>
+        <entry encoding="base64">YmVkcHJlcw==</entry>
+        <entry encoding="base64">cmVzdWx0X2xpc3Q=</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="project2-80012511">
+      <jump line="25" column="3" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="24" column="3" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="7" column="11" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="9" column="8" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="32" column="40" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="29" column="4" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="27" column="32" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="28" column="4" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="40" column="0" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="31" column="8" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="26" column="43" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="5" column="0" filename="$USER_HOME$/documents/nummat/projects/project2/task1/plot_sol.py" protocol="file" />
+      <jump line="43" column="24" filename="$USER_HOME$/documents/nummat/projects/project2/task1/plot_sol.py" protocol="file" />
+      <jump line="39" column="5" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="37" column="32" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="35" column="52" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="18" column="0" filename="$USER_HOME$/documents/nummat/projects/project2/task1/grid_newton.py" protocol="file" />
+      <jump line="22" column="31" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="41" column="27" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="42" column="58" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="0" column="18" filename="$USER_HOME$/documents/nummat/projects/project2/task1/plot_sol.py" protocol="file" />
+      <jump line="46" column="57" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="54" column="0" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="51" column="77" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="53" column="0" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/documents/nummat/projects/project2/.gitignore" protocol="file" />
+      <jump line="12" column="64" filename="$USER_HOME$/documents/nummat/projects/project2/task1/grid_newton.py" protocol="file" />
+      <jump line="17" column="0" filename="$USER_HOME$/documents/nummat/projects/project2/task1/grid_newton.py" protocol="file" />
+      <jump line="32" column="57" filename="$USER_HOME$/documents/nummat/projects/project2/task1/grid_newton.py" protocol="file" />
+      <jump line="49" column="57" filename="$USER_HOME$/documents/nummat/projects/project2/task1/grid_newton.py" protocol="file" />
+      <jump line="6" column="13" filename="$USER_HOME$/documents/nummat/projects/project2/task1/grid_newton.py" protocol="file" />
+      <jump line="1" column="7" filename="$USER_HOME$/documents/nummat/projects/project2/task1/grid_newton.py" protocol="file" />
+      <jump line="51" column="5" filename="/usr/local/lib/python3.11/typing.py" protocol="file" />
+      <jump line="1946" column="8" filename="/usr/local/lib/python3.11/typing.py" protocol="file" />
+      <jump line="1948" column="15" filename="/usr/local/lib/python3.11/typing.py" protocol="file" />
+      <jump line="2020" column="20" filename="/usr/local/lib/python3.11/typing.py" protocol="file" />
+      <jump line="2026" column="25" filename="/usr/local/lib/python3.11/typing.py" protocol="file" />
+      <jump line="2088" column="23" filename="/usr/local/lib/python3.11/typing.py" protocol="file" />
+      <jump line="2490" column="29" filename="/usr/local/lib/python3.11/typing.py" protocol="file" />
+      <jump line="3186" column="12" filename="/usr/local/lib/python3.11/typing.py" protocol="file" />
+      <jump line="205" column="22" filename="/usr/local/lib/python3.11/typing.py" protocol="file" />
+      <jump line="402" column="33" filename="/usr/local/lib/python3.11/typing.py" protocol="file" />
+      <jump line="786" column="35" filename="/usr/local/lib/python3.11/typing.py" protocol="file" />
+      <jump line="1199" column="4" filename="/usr/local/lib/python3.11/typing.py" protocol="file" />
+      <jump line="4" column="43" filename="$USER_HOME$/documents/nummat/projects/project2/task1/grid_newton.py" protocol="file" />
+      <jump line="40" column="0" filename="$USER_HOME$/documents/nummat/projects/project2/task1/grid_newton.py" protocol="file" />
+      <jump line="166" column="5" filename="$USER_HOME$/documents/nummat/projects/project2/.gitignore" protocol="file" />
+      <jump line="59" column="21" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="12" column="4" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="7" column="6" filename="$USER_HOME$/documents/nummat/projects/project2/task1/my_newton.py" protocol="file" />
+      <jump line="41" column="0" filename="$USER_HOME$/documents/nummat/projects/project2/task1/grid_newton.py" protocol="file" />
+      <jump line="38" column="8" filename="$USER_HOME$/documents/nummat/projects/project2/task1/grid_newton.py" protocol="file" />
+      <jump line="34" column="78" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="57" column="66" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="12" column="14" filename="$USER_HOME$/documents/nummat/projects/project2/task1/plot_sol.py" protocol="file" />
+      <jump line="5" column="28" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="16" column="21" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="42" column="12" filename="$USER_HOME$/documents/nummat/projects/project2/task1/plot_sol.py" protocol="file" />
+      <jump line="23" column="6" filename="$USER_HOME$/documents/nummat/projects/project2/task1/plot_sol.py" protocol="file" />
+      <jump line="9" column="10" filename="$USER_HOME$/documents/nummat/projects/project2/task1/test.py" protocol="file" />
+      <jump line="26" column="15" filename="$USER_HOME$/documents/nummat/projects/project2/task1/plot_sol.py" protocol="file" />
+      <jump line="16" column="21" filename="$USER_HOME$/documents/nummat/projects/project2/task1/test.py" protocol="file" />
+      <jump line="11" column="56" filename="$USER_HOME$/documents/nummat/projects/project2/task1/grid_newton.py" protocol="file" />
+      <jump line="19" column="26" filename="$USER_HOME$/documents/nummat/projects/project2/task1/grid_newton.py" protocol="file" />
+      <jump line="56" column="0" filename="$USER_HOME$/documents/nummat/projects/project2/task1/plot_sol.py" protocol="file" />
+      <jump line="60" column="49" filename="$USER_HOME$/documents/nummat/projects/project2/task1/plot_sol.py" protocol="file" />
+      <jump line="57" column="18" filename="$USER_HOME$/documents/nummat/projects/project2/task1/plot_sol.py" protocol="file" />
+      <jump line="64" column="29" filename="$USER_HOME$/documents/nummat/projects/project2/task1/plot_sol.py" protocol="file" />
+      <jump line="99" column="0" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="91" column="92" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="85" column="32" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="86" column="62" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="63" column="25" filename="$USER_HOME$/documents/nummat/projects/project2/task1/plot_sol.py" protocol="file" />
+      <jump line="98" column="0" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="88" column="80" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="92" column="68" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="66" column="0" filename="$USER_HOME$/documents/nummat/projects/project2/task1/plot_sol.py" protocol="file" />
+      <jump line="102" column="4" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="94" column="70" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="84" column="87" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="89" column="22" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="30" column="0" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="20" column="19" filename="$USER_HOME$/documents/nummat/projects/project2/task1/grid_newton.py" protocol="file" />
+      <jump line="9" column="40" filename="$USER_HOME$/documents/nummat/projects/project2/task1/grid_newton.py" protocol="file" />
+      <jump line="36" column="27" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="5" column="0" filename="$USER_HOME$/documents/nummat/projects/project2/task1/my_newton.py" protocol="file" />
+      <jump line="61" column="64" filename="$USER_HOME$/documents/nummat/projects/project2/task1/plot_sol.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/documents/nummat/projects/project2/task1/my_newton.py" protocol="file" />
+      <jump line="6" column="0" filename="$USER_HOME$/documents/nummat/projects/project2/task1/plot_sol.py" protocol="file" />
+      <jump line="101" column="0" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="100" column="26" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="6" column="0" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="162" column="19" filename="$USER_HOME$/documents/nummat/projects/project2/project2.ipynb" protocol="notebook" />
+      <jump line="0" column="0" filename="/usr/local/lib/python3.11/site-packages/matplotlib/animation.py" protocol="file" />
+      <jump line="67" column="25" filename="$USER_HOME$/documents/nummat/projects/project2/task1/plot_sol.py" protocol="file" />
+      <jump line="6" column="31" filename="$USER_HOME$/documents/nummat/projects/project2/task1/my_newton.py" protocol="file" />
+      <jump line="5" column="0" filename="$USER_HOME$/documents/nummat/projects/project2/task1/grid_newton.py" protocol="file" />
+      <jump line="2" column="0" filename="$USER_HOME$/documents/nummat/projects/project2/task1/phase.py" protocol="file" />
+      <jump line="49" column="36" filename="$USER_HOME$/documents/nummat/projects/project2/task1/plot_sol.py" protocol="file" />
+    </project>
+    <project id="webkom-90d43f4d">
+      <jump line="0" column="0" filename="$USER_HOME$/documents/webkom/nablaweb/nablaweb/__init__.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/documents/webkom/nablaweb/nablaweb/urls.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/events/event_calendar.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/documents/webkom/nablaweb/nablaweb/settings/devel.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/events/apps.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/documents/webkom/nablaweb/static/css/front_page.css" protocol="file" />
+      <jump line="33" column="0" filename="$USER_HOME$/documents/webkom/nablaweb/static/css/front_page.css" protocol="file" />
+      <jump line="62" column="9" filename="$USER_HOME$/documents/webkom/nablaweb/static/css/front_page.css" protocol="file" />
+      <jump line="27" column="45" filename="$USER_HOME$/documents/webkom/nablaweb/static/css/front_page.css" protocol="file" />
+      <jump line="160" column="26" filename="$USER_HOME$/documents/webkom/nablaweb/static/css/front_page.css" protocol="file" />
+      <jump line="157" column="1" filename="$USER_HOME$/documents/webkom/nablaweb/static/css/front_page.css" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/documents/webkom/nablaweb/templates/front_page.html" protocol="file" />
+      <jump line="67" column="20" filename="$USER_HOME$/documents/webkom/nablaweb/templates/front_page.html" protocol="file" />
+      <jump line="101" column="11" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/core/views.py" protocol="file" />
+      <jump line="92" column="38" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/core/views.py" protocol="file" />
+      <jump line="98" column="7" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/core/views.py" protocol="file" />
+      <jump line="63" column="3" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/core/views.py" protocol="file" />
+      <jump line="20" column="8" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/core/view_mixins.py" protocol="file" />
+      <jump line="19" column="0" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/core/view_mixins.py" protocol="file" />
+      <jump line="40" column="22" filename="$USER_HOME$/documents/webkom/nablaweb/templates/includes/upcoming_events.html" protocol="file" />
+      <jump line="27398" column="12" filename="$APPLICATION_HOME_DIR$/plugins/javascript-plugin/jsLanguageServicesImpl/external/lib.dom.d.ts" protocol="file" />
+      <jump line="64" column="34" filename="$USER_HOME$/documents/webkom/nablaweb/templates/includes/upcoming_events.html" protocol="file" />
+      <jump line="2" column="44" filename="$USER_HOME$/documents/webkom/nablaweb/templates/includes/upcoming_events.html" protocol="file" />
+      <jump line="11" column="14" filename="$USER_HOME$/documents/webkom/nablaweb/templates/includes/upcoming_events.html" protocol="file" />
+      <jump line="51" column="28" filename="$USER_HOME$/documents/webkom/nablaweb/templates/includes/upcoming_events.html" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/events/static/events/upcoming_events.css" protocol="file" />
+      <jump line="1" column="13" filename="$USER_HOME$/documents/webkom/nablaweb/templates/includes/upcoming_events.html" protocol="file" />
+      <jump line="3" column="38" filename="$USER_HOME$/documents/webkom/nablaweb/templates/includes/upcoming_events.html" protocol="file" />
+      <jump line="4" column="15" filename="$USER_HOME$/documents/webkom/nablaweb/templates/includes/upcoming_events.html" protocol="file" />
+      <jump line="62" column="8" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/core/views.py" protocol="file" />
+      <jump line="99" column="17" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/core/views.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/interactive/models/base.py" protocol="file" />
+      <jump line="94" column="17" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/core/views.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/events/templates/events/includes/upcoming_events.html" protocol="file" />
+      <jump line="57" column="16" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/core/views.py" protocol="file" />
+      <jump line="57" column="31" filename="$USER_HOME$/documents/webkom/nablaweb/templates/front_page.html" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/events/templates/events/event_registrations.html" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/events/templates/events/register_attendance.html" protocol="file" />
+      <jump line="74" column="19" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/core/views.py" protocol="file" />
+      <jump line="70" column="359" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/core/views.py" protocol="file" />
+      <jump line="76" column="49" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/core/views.py" protocol="file" />
+      <jump line="78" column="0" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/core/views.py" protocol="file" />
+      <jump line="72" column="22" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/core/views.py" protocol="file" />
+      <jump line="73" column="0" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/core/views.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/events/models/event.py" protocol="file" />
+      <jump line="20" column="6" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/events/models/event.py" protocol="file" />
+      <jump line="92" column="28" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/events/models/event.py" protocol="file" />
+      <jump line="98" column="56" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/events/models/event.py" protocol="file" />
+      <jump line="102" column="49" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/events/models/event.py" protocol="file" />
+      <jump line="131" column="20" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/events/models/event.py" protocol="file" />
+      <jump line="118" column="68" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/events/models/event.py" protocol="file" />
+      <jump line="122" column="23" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/events/models/event.py" protocol="file" />
+      <jump line="95" column="30" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/events/models/event.py" protocol="file" />
+      <jump line="94" column="16" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/events/models/event.py" protocol="file" />
+      <jump line="0" column="6" filename="$USER_HOME$/documents/webkom/nablaweb/templates/includes/upcoming_events.html" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/interactive/templates/interactive/code_golf.html" protocol="file" />
+      <jump line="15" column="46" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/interactive/templates/interactive/code_golf.html" protocol="file" />
+      <jump line="32" column="46" filename="$USER_HOME$/documents/webkom/nablaweb/templates/front_page.html" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/interactive/models/code_golf.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/documents/webkom/nablaweb/templates/base.html" protocol="file" />
+      <jump line="71" column="36" filename="$USER_HOME$/documents/webkom/nablaweb/templates/front_page.html" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/events/views.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/events/models/eventregistration.py" protocol="file" />
+      <jump line="73" column="20" filename="$USER_HOME$/documents/webkom/nablaweb/templates/front_page.html" protocol="file" />
+      <jump line="77" column="29" filename="$USER_HOME$/documents/webkom/nablaweb/templates/front_page.html" protocol="file" />
+      <jump line="75" column="89" filename="$USER_HOME$/documents/webkom/nablaweb/templates/front_page.html" protocol="file" />
+      <jump line="72" column="52" filename="$USER_HOME$/documents/webkom/nablaweb/templates/front_page.html" protocol="file" />
+      <jump line="74" column="19" filename="$USER_HOME$/documents/webkom/nablaweb/templates/front_page.html" protocol="file" />
+      <jump line="137" column="11" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/interactive/templates/interactive/code_golf.html" protocol="file" />
+      <jump line="70" column="48" filename="$USER_HOME$/documents/webkom/nablaweb/templates/front_page.html" protocol="file" />
+      <jump line="71" column="332" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/core/views.py" protocol="file" />
+    </project>
+    <project id="nablaweb-3e827e92">
+      <jump line="0" column="0" filename="$USER_HOME$/documents/webkom/nablaweb/templates/front_page.html" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/events/templates/events/event_registrations.html" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/events/views.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/core/views.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/events/models/eventregistration.py" protocol="file" />
+      <jump line="68" column="54" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/core/views.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/documents/webkom/nablaweb/templates/includes/article_widget.html" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/interactive/templates/interactive/code_golf.html" protocol="file" />
+      <jump line="13" column="0" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/interactive/templates/interactive/code_golf.html" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/interactive/models/code_golf.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/interactive/views/code_golf.py" protocol="file" />
+      <jump line="155" column="51" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/interactive/views/code_golf.py" protocol="file" />
+      <jump line="157" column="21" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/interactive/views/code_golf.py" protocol="file" />
+      <jump line="158" column="24" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/interactive/views/code_golf.py" protocol="file" />
+      <jump line="162" column="24" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/interactive/views/code_golf.py" protocol="file" />
+      <jump line="163" column="45" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/interactive/views/code_golf.py" protocol="file" />
+      <jump line="165" column="25" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/interactive/views/code_golf.py" protocol="file" />
+      <jump line="167" column="21" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/interactive/views/code_golf.py" protocol="file" />
+      <jump line="169" column="50" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/interactive/views/code_golf.py" protocol="file" />
+      <jump line="78" column="7" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/interactive/views/code_golf.py" protocol="file" />
+      <jump line="87" column="16" filename="$USER_HOME$/documents/webkom/nablaweb/templates/front_page.html" protocol="file" />
+      <jump line="84" column="27" filename="$USER_HOME$/documents/webkom/nablaweb/templates/front_page.html" protocol="file" />
+      <jump line="55" column="31" filename="$USER_HOME$/documents/webkom/nablaweb/templates/front_page.html" protocol="file" />
+      <jump line="57" column="74" filename="$USER_HOME$/documents/webkom/nablaweb/templates/front_page.html" protocol="file" />
+      <jump line="73" column="28" filename="$USER_HOME$/documents/webkom/nablaweb/templates/front_page.html" protocol="file" />
+      <jump line="76" column="20" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/interactive/views/code_golf.py" protocol="file" />
+      <jump line="73" column="41" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/interactive/views/code_golf.py" protocol="file" />
+      <jump line="78" column="6" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/interactive/models/code_golf.py" protocol="file" />
+      <jump line="81" column="51" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/interactive/views/code_golf.py" protocol="file" />
+      <jump line="41" column="8" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/interactive/models/code_golf.py" protocol="file" />
+      <jump line="36" column="24" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/interactive/models/code_golf.py" protocol="file" />
+      <jump line="79" column="21" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/core/views.py" protocol="file" />
+      <jump line="71" column="49" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/core/views.py" protocol="file" />
+      <jump line="74" column="32" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/core/views.py" protocol="file" />
+      <jump line="12" column="6" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/events/models/eventregistration.py" protocol="file" />
+      <jump line="72" column="15" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/core/views.py" protocol="file" />
+      <jump line="77" column="63" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/core/views.py" protocol="file" />
+      <jump line="131" column="14" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/interactive/templates/interactive/code_golf.html" protocol="file" />
+      <jump line="57" column="28" filename="$USER_HOME$/documents/webkom/nablaweb/nablapps/interactive/models/code_golf.py" protocol="file" />
+    </project>
+    <project id="NumMat-exercises-ad7b7865">
+      <jump line="63" column="10" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise4/task3.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise4/task4.py" protocol="file" />
+      <jump line="14" column="21" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="8" column="45" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="15" column="0" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="7" column="12" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="6" column="40" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="10" column="4" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="12" column="25" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="13" column="0" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="27" column="46" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="29" column="10" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="9" column="0" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="5" column="58" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="19" column="0" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="23" column="0" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="85" column="39" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="81" column="36" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="91" column="19" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="93" column="17" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="104" column="85" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="34" column="37" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="49" column="37" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="70" column="37" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="84" column="37" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="92" column="86" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="96" column="24" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="89" column="17" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="97" column="20" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="77" column="50" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="76" column="51" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="101" column="37" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="98" column="18" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="74" column="73" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="54" column="72" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="36" column="74" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="52" column="3" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="33" column="4" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="53" column="40" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="61" column="83" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="94" column="49" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="80" column="48" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="62" column="31" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="79" column="53" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="38" column="53" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="90" column="32" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="87" column="4" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="95" column="8" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="83" column="42" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="82" column="0" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="100" column="8" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="103" column="35" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="4" column="0" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="20" column="0" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="30" column="0" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="45" column="0" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="69" column="0" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="16" column="0" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="86" column="0" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise4/task2.py" protocol="file" />
+      <jump line="110" column="0" filename="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" protocol="file" />
+    </project>
+    <project id="StokMod-project-2-de376c03">
+      <jump line="0" column="0" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task1/task1g.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task1/task1f.py" protocol="file" />
+      <jump line="12" column="18" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task2/task2a.py" protocol="file" />
+      <jump line="5" column="4" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task2/utils.py" protocol="file" />
+      <jump line="8" column="19" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task2/utils.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task2/task2c.py" protocol="file" />
+      <jump line="55" column="4" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task2/utils.py" protocol="file" />
+      <jump line="15" column="33" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task2/task2a.py" protocol="file" />
+      <jump line="35" column="16" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task2/task2c.py" protocol="file" />
+      <jump line="37" column="3" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task2/task2c.py" protocol="file" />
+      <jump line="28" column="59" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task2/task2c.py" protocol="file" />
+      <jump line="36" column="14" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task2/task2c.py" protocol="file" />
+      <jump line="40" column="35" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task2/task2c.py" protocol="file" />
+      <jump line="42" column="28" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task2/task2c.py" protocol="file" />
+      <jump line="10" column="0" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task2/task2c.py" protocol="file" />
+      <jump line="20" column="22" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task2/task2c.py" protocol="file" />
+      <jump line="23" column="0" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task2/task2c.py" protocol="file" />
+      <jump line="21" column="24" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task2/task2a.py" protocol="file" />
+      <jump line="24" column="4" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task2/task2a.py" protocol="file" />
+      <jump line="26" column="4" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task2/task2a.py" protocol="file" />
+      <jump line="40" column="28" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task2/task2a.py" protocol="file" />
+      <jump line="37" column="0" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task2/task2a.py" protocol="file" />
+      <jump line="38" column="40" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task2/task2a.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/.gitignore" protocol="file" />
+      <jump line="26" column="0" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task2/task2c.py" protocol="file" />
+      <jump line="22" column="26" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task2/task2a.py" protocol="file" />
+      <jump line="9" column="0" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task2/task2c.py" protocol="file" />
+      <jump line="54" column="0" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task2/task2c.py" protocol="file" />
+      <jump line="25" column="0" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task2/task2c.py" protocol="file" />
+      <jump line="9" column="4" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task2/task2a.py" protocol="file" />
+      <jump line="41" column="28" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task2/task2a.py" protocol="file" />
+      <jump line="37" column="4" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task2/utils.py" protocol="file" />
+      <jump line="30" column="16" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task2/task2a.py" protocol="file" />
+      <jump line="8" column="25" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task2/task2a.py" protocol="file" />
+      <jump line="6" column="24" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task2/task2a.py" protocol="file" />
+      <jump line="7" column="4" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task2/task2a.py" protocol="file" />
+      <jump line="50" column="0" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task2/task2a.py" protocol="file" />
+      <jump line="28" column="24" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task2/task2a.py" protocol="file" />
+      <jump line="24" column="0" filename="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task2/task2c.py" protocol="file" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/documents/webkom/nablaweb/README.md" timestamp="1730311308123">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/documents/webkom/nablaweb/nablapps/interactive/views/code_golf.py" timestamp="1730314073632">
+        <mark key="'" line="73" column="41" />
+      </file>
+      <file name="$USER_HOME$/documents/nummat/NumMat-exercises/exercise4/task3.py" timestamp="1731148525455">
+        <mark key="&quot;" line="63" column="10" />
+      </file>
+      <file name="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task2/task2c.py" timestamp="1731247358794">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="55" column="12" />
+        <mark key="^" line="55" column="12" />
+        <mark key="." line="55" column="11" />
+      </file>
+      <file name="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/problem2.py" timestamp="1731148525434">
+        <mark key="&quot;" line="110" column="0" />
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="102" column="74" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
+      </file>
+      <file name="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task2/task2a.py" timestamp="1731247160517">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="28" column="25" />
+        <mark key="." line="28" column="24" />
+        <mark key="^" line="28" column="25" />
+      </file>
+      <file name="$USER_HOME$/documents/webkom/nablaweb/nablapps/events/templates/events/event_registrations.html" timestamp="1730312071936">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/documents/webkom/nablaweb/templates/includes/article_widget.html" timestamp="1730313285473">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task1/task1g.py" timestamp="1731228910035">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/documents/webkom/nablaweb/nablapps/core/views.py" timestamp="1730316639638">
+        <mark key="&quot;" line="70" column="29" />
+        <mark key="]" line="72" column="15" />
+      </file>
+      <file name="$USER_HOME$/documents/webkom/nablaweb/templates/front_page.html" timestamp="1730313640651">
+        <mark key="&quot;" line="70" column="48" />
+        <mark key="'" line="57" column="74" />
+        <mark key="[" line="70" column="22" />
+        <mark key="]" line="70" column="49" />
+        <mark key="^" line="70" column="49" />
+        <mark key="." line="70" column="48" />
+      </file>
+      <file name="$USER_HOME$/documents/nummat/NumMat-exercises/exercise5/exercise5.ipynb" timestamp="1731069835280">
+        <mark key="&quot;" line="1" column="12" />
+        <mark key="[" line="285" column="0" />
+        <mark key="]" line="285" column="0" />
+        <mark key="." line="285" column="0" />
+      </file>
+      <file name="/" timestamp="1731053366931">
+        <mark key="&quot;" line="42" column="10" />
+      </file>
+      <file name="$USER_HOME$/documents/nummat/NumMat-exercises/exercise4/task2.py" timestamp="1731148525452">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/documents/nummat/NumMat-exercises/exercise4/task4.py" timestamp="1731148525462">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/documents/nummat/NumMat-exercises/exercise4/exercise4.ipynb" timestamp="1731062392090">
+        <mark key="&quot;" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/.gitignore" timestamp="1731242655431">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/documents/webkom/nablaweb/nablapps/events/views.py" timestamp="1730312115655">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/documents/stokmod/projects/StokMod-project-2/task1/task1f.py" timestamp="1731228908780">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="LINE_WISE">
+        <text encoding="base64">ICAgIHByaW50KFZfQUlCLmRpYWdvbmFsKCkpCg==</text>
+      </register>
+      <register name="+" type="CHARACTER_WISE">
+        <text encoding="base64">IFJ1bnRpbWVXYXJuaW5nOiBpbnZhbGlkIHZhbHVlIGVuY291bnRlcmVkIGluIHNjYWxhciBkaXZpZGU=</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">bG93ZXIg</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64">ICAgICNQIHo8IDAuMw==</text>
+      </register>
+      <register name="/" type="CHARACTER_WISE">
+        <text encoding="base64">cmVzdWx0X2xpc3Q=</text>
+      </register>
+      <register name="0" type="LINE_WISE">
+        <text encoding="base64">CiAgICB0aGV0YV9BX2Fycl9wbG90ID0gbnAuY29uY2F0ZW5hdGUoKHRoZXRhX0FfYXJyLCB0aGV0YV9CX2FycikpCiAgICBFX0FJQl9wbG90ID0gbnAuY29uY2F0ZW5hdGUoKEVfQUlCLCB4X0JfYXJyKSkKICAgIGxvd2VyID0gbnAuY29uY2F0ZW5hdGUoKGxvd2VyLCB4X0JfYXJyKSkKICAgIHVwcGVyID0gbnAuY29uY2F0ZW5hdGUoKHVwcGVyLCB4X0JfYXJyKSkKCgogICAgc29ydF9pbmRpY2VzID0gbnAuYXJnc29ydCh0aGV0YV9BX2Fycl9wbG90KQogICAgdGhldGFfQV9hcnJfcGxvdCA9IHRoZXRhX0FfYXJyX3Bsb3Rbc29ydF9pbmRpY2VzXQogICAgRV9BSUJfcGxvdCA9IEVfQUlCX3Bsb3Rbc29ydF9pbmRpY2VzXQogICAgbG93ZXIgPSBsb3dlcltzb3J0X2luZGljZXNdCiAgICB1cHBlciA9IHVwcGVyW3NvcnRfaW5kaWNlc10K</text>
+      </register>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">ICAgIHByaW50KFZfQUlCLmRpYWdvbmFsKCkpCg==</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">ICAgIHByaW50KHRoZXRhX0FfYXJyKQo=</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">ICAgICNWX0FJQltucC5kaWFnX2luZGljZXNfZnJvbShWX0FJQildID0gbnAuYWJzKFZfQUlCW25wLmRpYWdfaW5kaWNlc19mcm9tKFZfQUlCKV0pCg==</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">ICAgICMgU29tZSBpbmRpY2VzIHdlcmUgbmVnYXRpdmUgYnV0IGVmZmVjdGl2ZWx5IHplcm8K</text>
+      </register>
+      <register name="5" type="LINE_WISE">
+        <text encoding="base64">ICAgIHByaW50KHRkZGhldGFfQV9hcnIpCg==</text>
+      </register>
+      <register name="6" type="LINE_WISE">
+        <text encoding="base64">ICAgIHRoZXRhX0FfYXJyID0gdGhldGFfQV9hcnJbbnAuaW4xZCgpXQo=</text>
+      </register>
+      <register name="7" type="LINE_WISE">
+        <text encoding="base64">ZGVmIGNvbmRfbWVhbl9hbmRfY292KHRoZXRhX2Fyciwga25vd25fdGhldGEsIGtub3duX3ZhbHVlcyk6Cg==</text>
+      </register>
+      <register name="8" type="LINE_WISE">
+        <text encoding="base64">ICAgIGFzc2VydChrbm93bl90aGV0YS5zaXplID09IGtub3duX3ZhbHVlcywgIktub3duIHRoZXRhIGFuZCBrbm93biB2YWx1ZXMgYXJlIG5vdCBvZiB0aGUgc2FtZSBzaXplIikK</text>
+      </register>
+      <register name="9" type="LINE_WISE">
+        <text encoding="base64">ICAgIHRoZXRhX3Vua24gPSBucC5hc2FycmF5KFtpIGZvciBpIGluIHRoZXRhX2FyciBpZiBpIG5vdCBpbiBrbm93bl90aGV0YV0pCg==</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">dw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">cmVzdWx0X2xpc3Q=</last-search>
+      <last-offset encoding="base64" />
+      <last-replace encoding="base64">fg==</last-replace>
+      <last-pattern encoding="base64">cmVzdWx0X2xpc3Q=</last-pattern>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

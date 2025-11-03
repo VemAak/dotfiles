@@ -1,0 +1,98 @@
+<application>
+  <component name="ActionHistoryManager">
+    <ids>
+      <option value="NavbarPopupMenu" />
+    </ids>
+  </component>
+  <component name="FileEditorProviderManager">{
+  &quot;selectedProviders&quot;: {
+    &quot;text-editor,csv-data-editor&quot;: &quot;text-editor&quot;
+  }
+}</component>
+  <component name="LangManager">
+    <option name="languageName" value="Python" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="12.0" />
+    <option name="ideScale" value="1.5" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "DBE.Default.Dialect": "",
+    "FindSplitterProportion": "0.39588282",
+    "IdeErrorsDialog.LAST_OK_ACTION": "REPORT_AND_CLEAR_ALL",
+    "InstalledPluginsSearchHistory": "numpy\nnump\nnum\nnu\nn",
+    "KEYMAP": "comment",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "6",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators": "PY-242.23339.19",
+    "MarketplacePluginsSearchHistory": "R\npdf\ndoc\ndo\ndocs",
+    "NextRunPlatformUpdateBuild": "PY-242.26775.22",
+    "NextRunPlatformUpdateVersion": "2024.2.6",
+    "PyCharm.InitialConfiguration": "true",
+    "PyCharm.InitialConfiguration.V2": "true",
+    "PyCharm.InitialConfiguration.V3": "true",
+    "PyCharm.InitialConfiguration.V4": "true",
+    "PyCharm.InitialConfiguration.V5": "true",
+    "PyCharm.InitialConfiguration.V6": "true",
+    "PyCharm.InitialConfiguration.V7": "true",
+    "PyCharm.InitialConfiguration.V8": "true",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.llm.installer.activate.toolwindow": "true",
+    "SettingsSearchHistory": "search and replace\nkeyma\nplug\nlanguage",
+    "TextEditorWithPreview.SplitterProportionKey": "0.27773997",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "evlsprt3.241": "7",
+    "evlsprt3.242": "4",
+    "exception.accepted.notices": ":d4a3ab85",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "242.23339.19",
+    "experimentalFeature.terminal.shell.command.handling": "false",
+    "fileTypeChangedCounter": "12",
+    "fontSizeToResetConsole": "12.0",
+    "fontSizeToResetEditor": "12.0",
+    "got.it.tooltip.py.data.view.new.table": "1",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "got.it.tooltip.speed.search.shown": "1",
+    "ide.memory.adjusted": "true",
+    "ideavim.statistics.timestamp": "1747048897811",
+    "last_opened_file_path": "/home/vemaak/webkom/nablaweb",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_High contrast",
+    "registry.to.advanced.settings.migration.build": "PY-242.23339.19",
+    "rplugin.version": "242.22855.133",
+    "selected.color.option.type": "rainbow",
+    "tab_selection_count": "5",
+    "ts.lib.d.ts.version": "5.4.3"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/vemaak/Downloads/lf04.ipynb",
+      "/home/vemaak/documents/numdiff",
+      "/home/vemaak/webkom/nablaweb",
+      "/home/vemaak/documents/numdiff/exercise_2",
+      "/home/vemaak/documents/webkom/nablaweb",
+      "/home/vemaak/documents/nummat/projects/project2",
+      "/home/vemaak/documents/nummat/projects/project1",
+      "/home/vemaak/documents/stokmod/projects/StokMod-project-2",
+      "/home/vemaak/documents/nummat/NumMat-exercises",
+      "/home/vemaak/documents/webkom",
+      "/home/vemaak/documents/nummat/projects",
+      "/home/vemaak/documents/nummat/projects/project1/project1.ipynb",
+      "/home/vemaak/documents/stokmod/projects/StokMod-project-1",
+      "/home/vemaak/documents/nummat/NumMat-exercises/exercise3",
+      "/home/vemaak/documents/stokmod/projects/project_1"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

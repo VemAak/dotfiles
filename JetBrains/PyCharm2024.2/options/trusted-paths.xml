@@ -1,0 +1,30 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/documents/linstat/exercise_5" value="true" />
+        <entry key="$USER_HOME$/documents/numdiff" value="true" />
+        <entry key="$USER_HOME$/documents/numdiff/exercise_2" value="true" />
+        <entry key="$USER_HOME$/documents/numdiff/exercise_3" value="true" />
+        <entry key="$USER_HOME$/documents/numdiff/exercise_4" value="true" />
+        <entry key="$USER_HOME$/documents/numdiff/numdiff_project1" value="true" />
+        <entry key="$USER_HOME$/documents/numdiff/numdiff_project2" value="true" />
+        <entry key="$USER_HOME$/documents/nummat/NumMat-exercises" value="true" />
+        <entry key="$USER_HOME$/documents/nummat/NumMat-exercises/exercise1" value="true" />
+        <entry key="$USER_HOME$/documents/nummat/NumMat-exercises/exercise3" value="true" />
+        <entry key="$USER_HOME$/documents/nummat/projects" value="true" />
+        <entry key="$USER_HOME$/documents/nummat/projects/project1" value="true" />
+        <entry key="$USER_HOME$/documents/nummat/projects/project2" value="true" />
+        <entry key="$USER_HOME$/documents/optimering_1/Optimization-project" value="true" />
+        <entry key="$USER_HOME$/documents/optimering_1/exercise_3" value="true" />
+        <entry key="$USER_HOME$/documents/stokmod/projects/StokMod-project-1" value="true" />
+        <entry key="$USER_HOME$/documents/stokmod/projects/StokMod-project-2" value="true" />
+        <entry key="$USER_HOME$/documents/stokmod/projects/project_1" value="true" />
+        <entry key="$USER_HOME$/documents/webkom" value="true" />
+        <entry key="$USER_HOME$/documents/webkom/nablaweb" value="true" />
+        <entry key="$USER_HOME$/test" value="true" />
+        <entry key="$USER_HOME$/webkom/nablaweb" value="true" />
+      </map>
+    </option>
+  </component>
+</application>
